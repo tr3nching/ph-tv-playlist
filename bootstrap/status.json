@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-08T00:53:36.422Z",
-  "channelCount": 482,
-  "catalogCount": 246,
+  "updatedAt": "2026-11-11T02:42:46.034Z",
+  "channelCount": 477,
+  "catalogCount": 243,
   "catalogSource": "live",
-  "primarySourceCount": 482,
-  "alternateSourceCount": 236,
+  "primarySourceCount": 477,
+  "alternateSourceCount": 234,
   "retainedSourceCount": 0,
-  "clearKeyChannelCount": 151,
+  "clearKeyChannelCount": 149,
   "failedChannels": [],
   "note": "Stream URLs were resolved, not playback-tested. The separate DRM playlist preserves source-supplied ClearKey settings and requires a compatible player."
 }

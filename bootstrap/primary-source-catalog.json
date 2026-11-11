@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T00:53:11.701Z",
+  "updatedAt": "2026-11-11T02:42:22.200Z",
   "catalogSource": "live",
   "entries": [
     {
@@ -228,18 +228,18 @@
       "enabled": true
     },
     {
-      "id": "primary-source:pbbcollab30:3",
+      "id": "primary-source:pbbcollab30:2",
       "parentName": "PBB Collab 3.0",
-      "serverIndex": 3,
+      "serverIndex": 2,
       "name": "Dining Area",
       "category": "Entertainment",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
     },
     {
-      "id": "primary-source:pbbcollab30:4",
+      "id": "primary-source:pbbcollab30:3",
       "parentName": "PBB Collab 3.0",
-      "serverIndex": 4,
+      "serverIndex": 3,
       "name": "External Den",
       "category": "Entertainment",
       "categoryBasis": "configured broad channel type; see category review",
@@ -764,15 +764,6 @@
       "serverIndex": 1,
       "name": "HBO Boxing Stream 2",
       "category": "Sports",
-      "categoryBasis": "configured broad channel type; see category review",
-      "enabled": true
-    },
-    {
-      "id": "primary-source:hbopop:1",
-      "parentName": "HBO POP",
-      "serverIndex": 1,
-      "name": "HBO POP Stream 2",
-      "category": "Movies",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
     },
@@ -1365,7 +1356,7 @@
       "id": "primary-source:nbatv:1",
       "parentName": "NBA TV",
       "serverIndex": 1,
-      "name": "6:00am Nuggets vs Pacers",
+      "name": "8:30am Bucks vs Knicks",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1374,7 +1365,7 @@
       "id": "primary-source:nbatv:2",
       "parentName": "NBA TV",
       "serverIndex": 2,
-      "name": "8:30am Nets vs Hawks",
+      "name": "9:00am Celtics vs 76ers",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1383,7 +1374,7 @@
       "id": "primary-source:nbatv:3",
       "parentName": "NBA TV",
       "serverIndex": 3,
-      "name": "9:00am Knicks vs Cavaliers",
+      "name": "10:00am Clippers vs Suns",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1392,7 +1383,7 @@
       "id": "primary-source:nbatv:4",
       "parentName": "NBA TV",
       "serverIndex": 4,
-      "name": "9:00am Wizards vs Thunder",
+      "name": "10:00am Heat vs Jazz",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1401,7 +1392,7 @@
       "id": "primary-source:nbatv:5",
       "parentName": "NBA TV",
       "serverIndex": 5,
-      "name": "9:30am Magic vs Warriors",
+      "name": "11:00am Magic vs Kings",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1410,16 +1401,7 @@
       "id": "primary-source:nbatv:6",
       "parentName": "NBA TV",
       "serverIndex": 6,
-      "name": "10:00am Rockets vs Suns",
-      "category": "Sports",
-      "categoryBasis": "configured broad channel type; see category review",
-      "enabled": true
-    },
-    {
-      "id": "primary-source:nbatv:7",
-      "parentName": "NBA TV",
-      "serverIndex": 7,
-      "name": "11:00am Spurs vs Trail Blazers",
+      "name": "12:00pm Thunder vs Trail Blazers",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
