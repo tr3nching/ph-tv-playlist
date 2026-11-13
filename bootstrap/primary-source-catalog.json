@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T02:42:22.200Z",
+  "updatedAt": "2026-11-13T05:55:25.304Z",
   "catalogSource": "live",
   "entries": [
     {
@@ -1356,7 +1356,7 @@
       "id": "primary-source:nbatv:1",
       "parentName": "NBA TV",
       "serverIndex": 1,
-      "name": "8:30am Bucks vs Knicks",
+      "name": "8:00am Raptors vs 76ers",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1365,7 +1365,7 @@
       "id": "primary-source:nbatv:2",
       "parentName": "NBA TV",
       "serverIndex": 2,
-      "name": "9:00am Celtics vs 76ers",
+      "name": "8:00am Pistons vs Wizards",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1374,7 +1374,7 @@
       "id": "primary-source:nbatv:3",
       "parentName": "NBA TV",
       "serverIndex": 3,
-      "name": "10:00am Clippers vs Suns",
+      "name": "9:00am Mavericks vs Timberwolves",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1383,25 +1383,7 @@
       "id": "primary-source:nbatv:4",
       "parentName": "NBA TV",
       "serverIndex": 4,
-      "name": "10:00am Heat vs Jazz",
-      "category": "Sports",
-      "categoryBasis": "configured broad channel type; see category review",
-      "enabled": true
-    },
-    {
-      "id": "primary-source:nbatv:5",
-      "parentName": "NBA TV",
-      "serverIndex": 5,
-      "name": "11:00am Magic vs Kings",
-      "category": "Sports",
-      "categoryBasis": "configured broad channel type; see category review",
-      "enabled": true
-    },
-    {
-      "id": "primary-source:nbatv:6",
-      "parentName": "NBA TV",
-      "serverIndex": 6,
-      "name": "12:00pm Thunder vs Trail Blazers",
+      "name": "10:00am Hornets vs Suns",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
