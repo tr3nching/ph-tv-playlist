@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T05:55:25.304Z",
+  "updatedAt": "2026-11-17T03:06:41.236Z",
   "catalogSource": "live",
   "entries": [
     {
@@ -120,10 +120,10 @@
       "enabled": true
     },
     {
-      "id": "primary-source:animax:2",
+      "id": "primary-source:animax:1",
       "parentName": "Animax",
-      "serverIndex": 2,
-      "name": "Animax Stream 3",
+      "serverIndex": 1,
+      "name": "Animax Stream 2",
       "category": "Anime",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -214,33 +214,6 @@
       "parentName": "AXN",
       "serverIndex": 2,
       "name": "AXN Movies",
-      "category": "Entertainment",
-      "categoryBasis": "configured broad channel type; see category review",
-      "enabled": true
-    },
-    {
-      "id": "primary-source:pbbcollab30:1",
-      "parentName": "PBB Collab 3.0",
-      "serverIndex": 1,
-      "name": "Main Livestream",
-      "category": "Entertainment",
-      "categoryBasis": "configured broad channel type; see category review",
-      "enabled": true
-    },
-    {
-      "id": "primary-source:pbbcollab30:2",
-      "parentName": "PBB Collab 3.0",
-      "serverIndex": 2,
-      "name": "Dining Area",
-      "category": "Entertainment",
-      "categoryBasis": "configured broad channel type; see category review",
-      "enabled": true
-    },
-    {
-      "id": "primary-source:pbbcollab30:3",
-      "parentName": "PBB Collab 3.0",
-      "serverIndex": 3,
-      "name": "External Den",
       "category": "Entertainment",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -678,20 +651,20 @@
       "enabled": true
     },
     {
-      "id": "primary-source:espn:3",
-      "parentName": "ESPN",
-      "serverIndex": 3,
-      "name": "ESPNEWS",
-      "category": "Sports",
-      "categoryBasis": "configured broad channel type; see category review",
-      "enabled": true
-    },
-    {
       "id": "primary-source:espn:4",
       "parentName": "ESPN",
       "serverIndex": 4,
       "name": "ESPN U",
       "category": "Sports",
+      "categoryBasis": "configured broad channel type; see category review",
+      "enabled": true
+    },
+    {
+      "id": "primary-source:failarmy:1",
+      "parentName": "FailArmy",
+      "serverIndex": 1,
+      "name": "FailArmy Stream 2",
+      "category": "Entertainment",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
     },
@@ -903,15 +876,6 @@
       "enabled": true
     },
     {
-      "id": "primary-source:justforlaughsgags:1",
-      "parentName": "Just for Laughs Gags",
-      "serverIndex": 1,
-      "name": "Just for Laughs Gags Stream 2",
-      "category": "Entertainment",
-      "categoryBasis": "configured broad channel type; see category review",
-      "enabled": true
-    },
-    {
       "id": "primary-source:kapamilyachannelhd:1",
       "parentName": "Kapamilya Channel HD",
       "serverIndex": 1,
@@ -921,10 +885,28 @@
       "enabled": true
     },
     {
+      "id": "primary-source:kbsworld:1",
+      "parentName": "KBS World",
+      "serverIndex": 1,
+      "name": "KBS World Stream 2",
+      "category": "Entertainment",
+      "categoryBasis": "configured broad channel type; see category review",
+      "enabled": true
+    },
+    {
+      "id": "primary-source:kidstv:1",
+      "parentName": "Kids TV",
+      "serverIndex": 1,
+      "name": "Baby Shark TV",
+      "category": "Kids",
+      "categoryBasis": "configured broad channel type; see category review",
+      "enabled": true
+    },
+    {
       "id": "primary-source:kidstv:2",
       "parentName": "Kids TV",
       "serverIndex": 2,
-      "name": "Baby Shark TV",
+      "name": "Baby Shark TV Stream 2",
       "category": "Kids",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -933,7 +915,7 @@
       "id": "primary-source:kidstv:3",
       "parentName": "Kids TV",
       "serverIndex": 3,
-      "name": "Baby Shark TV Stream 2",
+      "name": "Barbie and Friends",
       "category": "Kids",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -942,7 +924,7 @@
       "id": "primary-source:kidstv:4",
       "parentName": "Kids TV",
       "serverIndex": 4,
-      "name": "Barbie and Friends",
+      "name": "Barney and Friends",
       "category": "Kids",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -951,7 +933,7 @@
       "id": "primary-source:kidstv:5",
       "parentName": "Kids TV",
       "serverIndex": 5,
-      "name": "Barney and Friends",
+      "name": "Dora TV",
       "category": "Kids",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -960,7 +942,7 @@
       "id": "primary-source:kidstv:6",
       "parentName": "Kids TV",
       "serverIndex": 6,
-      "name": "Dora TV",
+      "name": "Duck TV",
       "category": "Kids",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1209,11 +1191,11 @@
       "enabled": true
     },
     {
-      "id": "primary-source:halloweennights:1",
-      "parentName": "Halloween Nights",
+      "id": "primary-source:moviesthriller:1",
+      "parentName": "Movies Thriller",
       "serverIndex": 1,
       "name": "Movies Action",
-      "category": "Movies",
+      "category": "General",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
     },
@@ -1257,7 +1239,7 @@
       "id": "primary-source:muxdos:2",
       "parentName": "MUX DOS",
       "serverIndex": 2,
-      "name": "MUX NEWS",
+      "name": "MUX LIFE",
       "category": "Lifestyle",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1266,7 +1248,7 @@
       "id": "primary-source:muxdos:3",
       "parentName": "MUX DOS",
       "serverIndex": 3,
-      "name": "MUX LIFE",
+      "name": "MUX MOVIES",
       "category": "Lifestyle",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1275,6 +1257,24 @@
       "id": "primary-source:muxdos:4",
       "parentName": "MUX DOS",
       "serverIndex": 4,
+      "name": "MUX NEWS",
+      "category": "Lifestyle",
+      "categoryBasis": "configured broad channel type; see category review",
+      "enabled": true
+    },
+    {
+      "id": "primary-source:muxdos:5",
+      "parentName": "MUX DOS",
+      "serverIndex": 5,
+      "name": "MUX SPORTS",
+      "category": "Lifestyle",
+      "categoryBasis": "configured broad channel type; see category review",
+      "enabled": true
+    },
+    {
+      "id": "primary-source:muxdos:6",
+      "parentName": "MUX DOS",
+      "serverIndex": 6,
       "name": "MUX WORLD",
       "category": "Lifestyle",
       "categoryBasis": "configured broad channel type; see category review",
@@ -1356,7 +1356,7 @@
       "id": "primary-source:nbatv:1",
       "parentName": "NBA TV",
       "serverIndex": 1,
-      "name": "8:00am Raptors vs 76ers",
+      "name": "8:00am Bulls vs Cavaliers",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1365,7 +1365,7 @@
       "id": "primary-source:nbatv:2",
       "parentName": "NBA TV",
       "serverIndex": 2,
-      "name": "8:00am Pistons vs Wizards",
+      "name": "8:00am Magic vs Celtics",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1374,7 +1374,7 @@
       "id": "primary-source:nbatv:3",
       "parentName": "NBA TV",
       "serverIndex": 3,
-      "name": "9:00am Mavericks vs Timberwolves",
+      "name": "8:00am Grizzlies vs Wizards",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1383,7 +1383,43 @@
       "id": "primary-source:nbatv:4",
       "parentName": "NBA TV",
       "serverIndex": 4,
-      "name": "10:00am Hornets vs Suns",
+      "name": "8:30am Rockets vs Heat",
+      "category": "Sports",
+      "categoryBasis": "configured broad channel type; see category review",
+      "enabled": true
+    },
+    {
+      "id": "primary-source:nbatv:5",
+      "parentName": "NBA TV",
+      "serverIndex": 5,
+      "name": "8:30am 76ers vs Nets",
+      "category": "Sports",
+      "categoryBasis": "configured broad channel type; see category review",
+      "enabled": true
+    },
+    {
+      "id": "primary-source:nbatv:6",
+      "parentName": "NBA TV",
+      "serverIndex": 6,
+      "name": "9:00am Trail Blazers vs Timberwolves",
+      "category": "Sports",
+      "categoryBasis": "configured broad channel type; see category review",
+      "enabled": true
+    },
+    {
+      "id": "primary-source:nbatv:7",
+      "parentName": "NBA TV",
+      "serverIndex": 7,
+      "name": "9:00am Warriors vs Pelicans",
+      "category": "Sports",
+      "categoryBasis": "configured broad channel type; see category review",
+      "enabled": true
+    },
+    {
+      "id": "primary-source:nbatv:8",
+      "parentName": "NBA TV",
+      "serverIndex": 8,
+      "name": "10:00am Suns vs Nuggets",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1800,24 +1836,6 @@
       "serverIndex": 1,
       "name": "Thrill Stream 2",
       "category": "Movies",
-      "categoryBasis": "configured broad channel type; see category review",
-      "enabled": true
-    },
-    {
-      "id": "primary-source:tlc:2",
-      "parentName": "TLC",
-      "serverIndex": 2,
-      "name": "TLC Asia",
-      "category": "Lifestyle",
-      "categoryBasis": "configured broad channel type; see category review",
-      "enabled": true
-    },
-    {
-      "id": "primary-source:tlc:3",
-      "parentName": "TLC",
-      "serverIndex": 3,
-      "name": "TLC India",
-      "category": "Lifestyle",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
     },
