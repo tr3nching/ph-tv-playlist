@@ -7,25 +7,13 @@
       "name": "[adult swim]",
       "epg_id": "primary-source:cartoonnetwork:3",
       "icon": "https://cdn.iyad.space/as.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509957/ylRvfXcJEWMWVryJ1gSTpg/hls/adultswim/stream.m3u8"
-    },
-    {
-      "name": "11:00am Kings vs Spurs",
-      "epg_id": "primary-source:nbatv:10",
-      "icon": "https://cdn.iyad.space/nba.png",
-      "url": "https://rise2the.top/aldous/1795512639/L1MmHge9DV8Rg86QxUuEYA/hls/nba10/stream.m3u8"
-    },
-    {
-      "name": "11:00am Lakers vs Jazz",
-      "epg_id": "primary-source:nbatv:9",
-      "icon": "https://cdn.iyad.space/nba.png",
-      "url": "https://rise2the.top/aldous/1795512631/uS_MXQvdvSJOocu94_p6hg/hls/nba9/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795655324/v4vQpXq2pZO-8iXqhF5How/hls/adultswim/stream.m3u8"
     },
     {
       "name": "3ABN",
       "epg_id": "primary-source:bs10moreconvergechannels:12",
       "icon": "https://static.wikia.nocookie.net/logopedia/images/8/87/3ABN_2011.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795509823/YRK-GnqcQ_lYsGXQZ6rc5w/cv9/001/2/ch00000090990000001183/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr64o8Us4Cb76FV%2BmBBNwJ2syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655192/gWOgZTcb8UB2RWEBuWKBLg/cv9/001/2/ch00000090990000001183/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr64o8Us4Cb76FV%2BmBBNwJ2syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "3RS SinePinoy",
@@ -46,64 +34,16 @@
       "url": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8"
     },
     {
-      "name": "8:00am 76ers vs Blazers",
-      "epg_id": "primary-source:nbatv:2",
-      "icon": "https://cdn.iyad.space/nba.png",
-      "url": "https://rise2the.top/aldous/1795512578/dgNVW63Hm3GqXLr8u0vwfg/hls/nba2/stream.m3u8"
-    },
-    {
-      "name": "8:00am Hornets vs Grizzlies",
-      "epg_id": "primary-source:nbatv:1",
-      "icon": "https://cdn.iyad.space/nba.png",
-      "url": "https://rise2the.top/aldous/1795512570/O8WXub6-DCUyONYi-EOP-g/hls/nba1/stream.m3u8"
-    },
-    {
-      "name": "8:30am Pacers vs Thunder",
-      "epg_id": "primary-source:nbatv:3",
-      "icon": "https://cdn.iyad.space/nba.png",
-      "url": "https://rise2the.top/aldous/1795512586/E_NB-vBBgt8Ie-3-o5MlVQ/hls/nba3/stream.m3u8"
-    },
-    {
-      "name": "8:30am Raptors vs Bucks",
-      "epg_id": "primary-source:nbatv:4",
-      "icon": "https://cdn.iyad.space/nba.png",
-      "url": "https://rise2the.top/aldous/1795512593/V3zJ1AtblzaTzAqWiHXcfA/hls/nba4/stream.m3u8"
-    },
-    {
-      "name": "8:30am Timberwolves vs Nets",
-      "epg_id": "primary-source:nbatv:5",
-      "icon": "https://cdn.iyad.space/nba.png",
-      "url": "https://rise2the.top/aldous/1795512601/isKCBdhwlc6yq7fZgunOtQ/hls/yes/stream.m3u8"
-    },
-    {
-      "name": "9:00am Bulls vs Cavaliers",
-      "epg_id": "primary-source:nbatv:6",
-      "icon": "https://cdn.iyad.space/nba.png",
-      "url": "https://rise2the.top/aldous/1795512609/oH1x0h_LF27iH2UCIqc9uQ/hls/nba6/stream.m3u8"
-    },
-    {
-      "name": "9:00am Pelicans vs Suns",
-      "epg_id": "primary-source:nbatv:7",
-      "icon": "https://cdn.iyad.space/nba.png",
-      "url": "https://rise2the.top/aldous/1795512616/zFo1eQheYpi7hqzozewK9Q/hls/nba7/stream.m3u8"
-    },
-    {
-      "name": "9:30am Rockets vs Clippers",
-      "epg_id": "primary-source:nbatv:8",
-      "icon": "https://cdn.iyad.space/nba.png",
-      "url": "https://rise2the.top/aldous/1795512623/5dBdPIJX_GZ2wK8vBjyQdQ/hls/nba8/stream.m3u8"
-    },
-    {
       "name": "A2Z",
       "epg_id": "A2Z",
       "icon": "https://iyadtv.pages.dev/images/a2z_4.png",
-      "url": "https://ovh.rise2the.top/aldous/1795508859/2P0ab03IWoplboskp-KneA/cv1/001/2/ch00000090990000001087/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqHRrK8UUahwItHhKpXgPXKsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795654324/r-IMnrN2VbpiATBWHjG-_Q/cv1/001/2/ch00000090990000001087/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqHRrK8UUahwItHhKpXgPXKsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "A2Z Stream 2",
       "epg_id": "primary-source:a2z:1",
       "icon": "https://iyadtv.pages.dev/images/a2z_4.png",
-      "url": "https://ovh.rise2the.top/aldous/1795508870/BBCEU33aq-1O-odSJkZQ5g/s/cg_a2z/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654336/QeX_4qEbPxt19QuUrGqzgw/s/cg_a2z/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "f3a8c9126e544d809b312c7f5a8e6140:43f5361983896b47ff01b4f77c5dbf3f",
@@ -121,7 +61,7 @@
       "name": "Abante Radyo Stream 2",
       "epg_id": "primary-source:abanteradyo:1",
       "icon": "https://iyadtv.pages.dev/images/abante-radyo.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795508886/cpcm7Ts8a1U5EkRqiGePCw/s/cg_abante_news/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654351/Ase_uTx6s9xz-D95dDjSOA/s/cg_abante_news/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "e5b2c7091a464d839f25b7c6e018a432:9a933efca0ae690102cc9594b29803bf",
@@ -133,7 +73,7 @@
       "name": "ABC Australia",
       "epg_id": "ABC Australia",
       "icon": "https://iyadtv.pages.dev/images/abc_australia_6.png",
-      "url": "https://ovh.rise2the.top/aldous/1795508895/BQvz2cm1Yrn7YYCmM5aZeg/s/abc_aus/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654359/y4WGMd4jae7VeJDirtpSxg/s/abc_aus/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "d6f1a8c29b7e4d5a8f332c1e9d7b6a90:790bd17b9e623e832003a993a2de1d87",
@@ -163,7 +103,7 @@
       "name": "Al Jazeera",
       "epg_id": "Al Jazeera",
       "icon": "https://iyadtv.pages.dev/images/al_jazeera_10.png",
-      "url": "https://ovh.rise2the.top/aldous/1795508945/HjR3npEWPUhcu9r2JTXpng/s/dr_aljazeera/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654411/i51Hds6KvlPGmAHspHP9bg/s/dr_aljazeera/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "73c5f8919d424b06a2186e7c3a5d9040:bf46e85e8fba9f0eae0931394d478d25",
@@ -187,25 +127,25 @@
       "name": "ALIW23",
       "epg_id": "ALIW23",
       "icon": "https://iyadtv.pages.dev/images/aliw23_8.png",
-      "url": "https://ovh.rise2the.top/aldous/1795508933/vDQ14OR_P2F-lvDNjyidYg/cv4/001/2/ch00000090990000001109/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp%2BWYKp0pXQLOnfpLMLHi2tsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795654400/RM5wsIx-jwQn9--ozyJQzA/cv4/001/2/ch00000090990000001109/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp%2BWYKp0pXQLOnfpLMLHi2tsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Aliwko",
       "epg_id": "Aliwko",
       "icon": "https://iyadtv.pages.dev/images/aliwko.png",
-      "url": "https://ovh.rise2the.top/aldous/1795508966/auKH3jyaqXaWxlUqUCgrlA/plex-epg/library/parts/5e20b730f2f8d5003d739db7-64d4ee537b323f6abbd19e59/?X-Plex-Token=z9-J-4imuPJVE9JXpQzP"
+      "url": "https://ovh.rise2the.top/aldous/1795654431/XnyJgN5z3q-bGSBjk6KGPA/plex-epg/library/parts/5e20b730f2f8d5003d739db7-64d4ee537b323f6abbd19e59/?X-Plex-Token=z9-J-4imuPJVE9JXpQzP"
     },
     {
       "name": "ALLTV2",
       "epg_id": "ALLTV2",
       "icon": "https://iyadtv.pages.dev/images/alltv2_12.png",
-      "url": "https://ovh.rise2the.top/aldous/1795508977/I5VJ_7_evxpJevMbjUQu1g/hls/alltv2/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795654442/5jBKFMR2kKGyHB262mV4Hw/hls/alltv2/stream.m3u8"
     },
     {
       "name": "ALLTV2 Stream 2",
       "epg_id": "primary-source:alltv2:1",
       "icon": "https://iyadtv.pages.dev/images/alltv2_12.png",
-      "url": "https://ovh.rise2the.top/aldous/1795508984/9I9LCqxFYCgItQW4mE4vEg/cv1/001/2/ch00000090990000001179/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAow35sHUcBhGBpxqddBGYEnsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795654448/1DPh-3ebzt1x9yhTwwRinQ/cv1/001/2/ch00000090990000001179/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAow35sHUcBhGBpxqddBGYEnsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "amasian tv Anime 24/7",
@@ -271,7 +211,7 @@
       "name": "ANC",
       "epg_id": "ANC",
       "icon": "https://iyadtv.pages.dev/images/anc_26.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509080/lA6t32xY_HVZDoMTahEIzg/cv5/001/2/ch00000090990000001216/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795654518/Sk4Lh9zX7nQzJ4IWvYKolQ/cv5/001/2/ch00000090990000001216/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoK2PIan60vhUUxnwtpVvgcytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Ancient Aliens",
@@ -283,7 +223,7 @@
       "name": "Animal Planet",
       "epg_id": "Animal Planet",
       "icon": "https://iyadtv.pages.dev/images/animal-planet.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795509122/5fzFEW01B00mpZzSoS1CBg/s/cg_animal_planet_sd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654559/VSXgMfAPnG2REHN-ga7X9w/s/cg_animal_planet_sd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "3c8e5a927d414b069f236a5c8e1d7049:a9b9198bf7b116b30492aea4dc471122",
@@ -307,7 +247,7 @@
       "name": "Animax",
       "epg_id": "Animax",
       "icon": "https://iyadtv.pages.dev/images/animax.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795509090/MKdFonJhX7r9ZKLrqLFdOw/s/cg_animax_sd_new/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654528/8cEkyP3cPWzlCa-s7E9MDw/s/cg_animax_sd_new/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "a7d3f5916c844b209e158f3a7d5c2046:021fe5515e7dfb1a00a98d51abd0cb7f",
@@ -319,25 +259,25 @@
       "name": "Animax Stream 2",
       "epg_id": "primary-source:animax:1",
       "icon": "https://iyadtv.pages.dev/images/animax.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795509101/dYTeswTY1tOJUzGXudaTHQ/play/animax/master.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795654537/ujYPHCpnQJ39K4l4H7y0RQ/play/animax/master.m3u8"
     },
     {
       "name": "Anime All Day",
       "epg_id": "Anime All Day",
       "icon": "https://iyadtv.pages.dev/images/anime_all_day_22.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509148/-eQK6phq8KIA5Y8eJiit9A/plusam/USAJ3504502A"
+      "url": "https://ovh.rise2the.top/aldous/1795654585/bmrQg83n2uEOon6b-XP3bA/plusam/USAJ3504502A"
     },
     {
       "name": "Anime by Pluto",
       "epg_id": "Anime by Pluto",
       "icon": "https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509168/YWC8XEd_Ue_JzZMI9Nhm4Q/plusam/plu-5812b7d3249444e05d09cc49.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795654604/5xli8KIV-IiATaaD6-qRpg/plusam/plu-5812b7d3249444e05d09cc49.m3u8"
     },
     {
       "name": "Anime Movies",
       "epg_id": "primary-source:animebypluto:1",
       "icon": "https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/colorLogoPNG_1748797351518.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509193/osiiTOhlfyVLyOZPBvqJCg/plusam/plu-67ed8f7e443f0671bc2b2368.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795654624/DiKNOAg_aGWxCjnparXnYQ/plusam/plu-67ed8f7e443f0671bc2b2368.m3u8"
     },
     {
       "name": "Anime x Hidive",
@@ -367,7 +307,7 @@
       "name": "Arirang Stream 2",
       "epg_id": "primary-source:arirang:1",
       "icon": "https://iyadtv.pages.dev/images/arirang.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795509376/o4gAd_Rdlv4muYE6U0A_sg/s/arirang_sd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654746/pLA3o4cSmtFuynvFTskUuQ/s/arirang_sd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "7d4f9c216a834e508b165c3a7d9e2048:9d148906d890053a00f5e581185ac066",
@@ -385,7 +325,7 @@
       "name": "Asian Food Network",
       "epg_id": "Asian Food Network",
       "icon": "https://iyadtv.pages.dev/images/asian_food_network_29.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509395/Qo9eTLfe5LD6oEtOca6QSA/s/asianfoodnetwork_sd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654765/F66NS-MU1OVkMDwCcEYwTg/s/asianfoodnetwork_sd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "f4b7c8219e364a058d295c6f3e7a1042:d10c7f2a37c1079e6b83837423c0d6b2",
@@ -403,7 +343,7 @@
       "name": "AXN",
       "epg_id": "AXN",
       "icon": "https://iyadtv.pages.dev/images/axn_30.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509410/yhoIw-Efqfy-OdriI_tPGw/s/cg_axn_sd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654779/_2UW6NMgMu6DA-wqgbFQag/s/cg_axn_sd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "c7e5a2199d644b318f702a6c4e5d8139:300778996b5a71594db508982256f365",
@@ -463,13 +403,13 @@
       "name": "BBC CBeebies",
       "epg_id": "BBC CBeebies",
       "icon": "https://iyadtv.pages.dev/images/cbeebies.png",
-      "url": "https://rise2the.top/aldous/1795509481/YnlQvj_c6cVHvSQiLgjR2w/hls/cbee/stream.m3u8"
+      "url": "https://rise2the.top/aldous/1795654855/3Y6PAr_ebXgdvr5lYgsKYw/hls/cbee/stream.m3u8"
     },
     {
       "name": "BBC Earth",
       "epg_id": "BBC Earth",
       "icon": "https://cms.bbcasia.com/sites/default/files/2023-09/BBC-Earth-YouTube-Stacked.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509504/AIoDPUsqtarc6AC8OduMSw/s/cg_bbcearth_hd1/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654885/v7EiU-fM8fKsED6W4EOgow/s/cg_bbcearth_hd1/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "4f9c6e217a354d80b9268e5c3f1a7042:41b33eebbacf91fe6c86bd28081bf3fd",
@@ -481,7 +421,7 @@
       "name": "BBC Lifestyle",
       "epg_id": "BBC Lifestyle",
       "icon": "https://iyadtv.pages.dev/images/bbc_lifestyle_35.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509513/X6mDqgjDnfOqyato47fXuA/s/cg_bbclifestyle/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654895/qLmLdEPynuc3WmvoHEYezA/s/cg_bbclifestyle/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0",
@@ -505,13 +445,13 @@
       "name": "BBC News",
       "epg_id": "BBC News",
       "icon": "https://cdn.iyad.space/bbcnews.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509548/-p0HvvOtl1jsDy2yDa-HwQ/cv4/001/2/ch00000090990000001095/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx1PFsBS2oDQ%2F0bDb4P2SmsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795654930/Cou6Bqko0O_cTj6eBuEZjQ/cv4/001/2/ch00000090990000001095/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx1PFsBS2oDQ%2F0bDb4P2SmsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "BBC WORLD News",
       "epg_id": "primary-source:bbcnews:1",
       "icon": "https://cdn.iyad.space/bbcnews.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509558/hbqHOOnLKz63y8dwv_Vzew/s/bbcworld_news_sd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654939/o6zp8xK1S6ez34bysyO2Ww/s/bbcworld_news_sd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "f1a6e8329c574b048d216e5f3a7c9048:8106237b47f99be13f4e941ca5bd35c5",
@@ -583,7 +523,7 @@
       "name": "Bilyonaryo Stream 2",
       "epg_id": "primary-source:bilyonaryo:1",
       "icon": "https://iyadtv.pages.dev/images/bilyonaryo_38.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509624/8l50tqQnkPSGxkZVWiA_HA/s/bilyonaryoch/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795655003/8Y8XqPYl9eqsBUi3cUgTUw/s/bilyonaryoch/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "2e7f9c518a424d30b2165c3e7a9d6041:8c8c0ef924c982bc1dd92348e024cd4c",
@@ -601,7 +541,7 @@
       "name": "Bloomberg",
       "epg_id": "Bloomberg",
       "icon": "https://iyadtv.pages.dev/images/bloomberg_41.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509641/m8BtXETaj8RA4jMGFUvKjA/s/bloomberg_sd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795655021/lIg8ZlyZVMVDwvqoNUMeAA/s/bloomberg_sd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "19f6c8325a744d90b2618e3f7c2a5049:784fffb38dc4fb6d5b74de822074feb4",
@@ -631,31 +571,31 @@
       "name": "BOOMERANG",
       "epg_id": "BOOMERANG",
       "icon": "https://iyadtv.pages.dev/images/boomerang_43.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509683/zV_StJNyc0i-5bE20gwZuQ/move1/USA_BOOMERANG/index.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795655064/9WzYgOj1jSMGjno0jEhIow/move1/USA_BOOMERANG/index.m3u8"
     },
     {
       "name": "Boruto: Naruto Next Generations",
       "epg_id": "primary-source:animebypluto:2",
       "icon": "https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509217/KjMRCAn9VGWZ-HSy-P2Urg/plusam/plu-696997049889f8db34c936c2.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795654642/OZzrg0ahLUkdZzDkNSPfDQ/plusam/plu-696997049889f8db34c936c2.m3u8"
     },
     {
       "name": "BS Fuji",
       "epg_id": "primary-source:bs10moreconvergechannels:1",
       "icon": "https://cdn.iyad.space/bsfuji.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509706/H-Bv8ayOQvsWt1tUYikccw/cv9/001/2/ch00000090990000001165/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqH%2B5l99GK8Rg%2FAZvU0C4flsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655083/H2N2QZXsb-w1gis871TTfA/cv9/001/2/ch00000090990000001165/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqH%2B5l99GK8Rg%2FAZvU0C4flsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "BS Nittele",
       "epg_id": "primary-source:bs10moreconvergechannels:2",
       "icon": "https://cdn.iyad.space/bsnittle.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509718/1Vw5402NawDe3xBGjdQ19Q/cv2/001/2/ch00000090990000001213/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqVCNWul70O3g%2BsOvpld6kgsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655095/iwKgwKZR_NKNhTeZ8A9FKw/cv2/001/2/ch00000090990000001213/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqVCNWul70O3g%2BsOvpld6kgsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "BS10 + more Converge Channels",
       "epg_id": "BS10 + more Converge Channels",
       "icon": "https://cdn.iyad.space/bs10.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509693/qZ6eU62ntUcVbAwpUUKWjQ/cv3/001/2/ch00000090990000001202/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAo5DOWlb1sl%2Btaq5YYAtO9QsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655072/2QlMBuFpEYIKkIzQXDe1zQ/cv3/001/2/ch00000090990000001202/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAo5DOWlb1sl%2Btaq5YYAtO9QsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "by Lionsgate",
@@ -673,7 +613,7 @@
       "name": "Cartoon Network",
       "epg_id": "Cartoon Network",
       "icon": "https://iyadtv.pages.dev/images/cartoon_network_48.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509922/BI2sip92SZ9RlxSwT06cTw/s/cartoonnetworkhd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795655288/toh1z4F65Ehuhsb6Q7v9kg/s/cartoonnetworkhd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "53c8e6914d724f30a9168b5e2c7d1043:1e17afbdfff786533796780f3f04aa67",
@@ -721,7 +661,7 @@
       "name": "CCTV4",
       "epg_id": "CCTV4",
       "icon": "https://iyadtv.pages.dev/images/cctv4_49.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509974/_S2FWJFi61p6LPmX4y2BUQ/s/dr_cctv4/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795655340/op14lpi6M3aJrZVdNXsE_Q/s/dr_cctv4/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "83e5c4917d624b00a2196f3c8a5e2047:d8fae6a24d5df3fa8e17a8f4a4854426",
@@ -733,19 +673,19 @@
       "name": "CCTV4 Stream 2",
       "epg_id": "primary-source:cctv4:1",
       "icon": "https://iyadtv.pages.dev/images/cctv4_49.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509984/d7Wto47J27jUFV8dRp8Eng/cv2/001/2/ch00000090990000001223/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArXm%2BLs%2BN7C0jX0KTEhSJl3syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655351/t8GOBfJm31_l2naI0lqB7A/cv2/001/2/ch00000090990000001223/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArXm%2BLs%2BN7C0jX0KTEhSJl3syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Celestial Classic Movies",
       "epg_id": "Celestial Classic Movies",
       "icon": "https://iyadtv.pages.dev/images/celestial_classic_movies_51.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509996/TX6cU-opKjUHHQ1eIlTs7g/cv2/001/2/ch00000090990000001244/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp8jImOa2AKrqwa1m%2FJfhcesyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655363/n8CKr9CSmeHFFaoyxrZS8Q/cv2/001/2/ch00000090990000001244/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp8jImOa2AKrqwa1m%2FJfhcesyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Celestial Movies Pinoy",
       "epg_id": "Celestial Movies Pinoy",
       "icon": "https://iyadtv.pages.dev/images/celestial_movies_pinoy_52.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510009/giHWVIrKar4MyhlpVxarZw/cv4/001/2/ch00000090990000001077/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHUpvQtyXgWxpVCozt4hcgsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655375/lr_JFKSnkNz-inTdl4jWDA/cv4/001/2/ch00000090990000001077/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHUpvQtyXgWxpVCozt4hcgsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "CGTN Documentary",
@@ -793,7 +733,7 @@
       "name": "CinemaOne PH Stream 2",
       "epg_id": "primary-source:cinemaone:2",
       "icon": "https://iyadtv.pages.dev/images/cinemaone.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795510074/RR-dQ3dvV3ySaehhnLvjmQ/cv8/001/2/ch00000090990000001283/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr2cQyuTRlDkHeiqeVidUqqsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655433/vfDJ6j7cFbtq-SGM8CA5AQ/cv8/001/2/ch00000090990000001283/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr2cQyuTRlDkHeiqeVidUqqsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Cinemax",
@@ -811,7 +751,7 @@
       "name": "Cinemax Stream 2",
       "epg_id": "primary-source:cinemax:1",
       "icon": "https://iyadtv.pages.dev/images/cinemax_60.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510170/swHdPQ00UwtbPwMWbL1Pnw/cv9/001/2/ch00000090990000001108/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655526/cboPZPikCqAQ98H-21a2QQ/cv9/001/2/ch00000090990000001108/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "CineMo!",
@@ -823,7 +763,7 @@
       "name": "CineMo! PH",
       "epg_id": "primary-source:cinemo:2",
       "icon": "https://iyadtv.pages.dev/images/cinemo__57.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510104/zX5nZ2HjdMyxPjxYKlFXMg/cv4/001/2/ch00000090990000001254/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApP1%2FTBq4G4yW%2Bysf7XC2GUsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655460/CG5aanvduT781-030_VStw/cv4/001/2/ch00000090990000001254/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApP1%2FTBq4G4yW%2Bysf7XC2GUsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "CineMo! Stream 2",
@@ -847,13 +787,13 @@
       "name": "CLTV36 Stream 2",
       "epg_id": "primary-source:cltv36:1",
       "icon": "https://iyadtv.pages.dev/images/cltv36_61.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510192/7RdPbIq80WeH7gm378t__g/cv7/001/2/ch00000090990000001314/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp7Iya5QVRTA1RELFN4tQIJ2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655543/cH3NVg2q_1BNnO20AqKRqg/cv7/001/2/ch00000090990000001314/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp7Iya5QVRTA1RELFN4tQIJ2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "CNBC",
       "epg_id": "CNBC",
       "icon": "https://iyadtv.pages.dev/images/cnbc.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510204/We9WYtRs2MCPMncAzrKCHQ/cv8/001/2/ch00000090990000001344/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApysTfm9HUYOIUKeEg06TC92%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655554/-dBYQbTlWhsPJ_gYJ_2-2A/cv8/001/2/ch00000090990000001344/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApysTfm9HUYOIUKeEg06TC92%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "CNBC Stream 2",
@@ -871,7 +811,7 @@
       "name": "CNN HD",
       "epg_id": "CNN HD",
       "icon": "https://iyadtv.pages.dev/images/cnn_63.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510222/r6T8cck9rcZpm5EPngIUMw/s/cg_cnnhd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795655573/ZBa7XfYVTspoLOWfsEjuiA/s/cg_cnnhd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "1d9f6b828c454a17b2395e7d3f90a621:c5776d83cbf50c9354f27b1c830e1996",
@@ -883,7 +823,7 @@
       "name": "Comedy Central",
       "epg_id": "Comedy Central",
       "icon": "https://cdn.iyad.space/comcen.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510231/1n18KPb5NL8erDA6kxFBjA/plusam/plu-5ca671f215a62078d2ec0abf.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795655582/rCUKnIpVGIK-dHHj5Wt9Sg/plusam/plu-5ca671f215a62078d2ec0abf.m3u8"
     },
     {
       "name": "Comedy Hits",
@@ -901,13 +841,13 @@
       "name": "Concert Channel",
       "epg_id": "Concert Channel",
       "icon": "https://images.pluto.tv/channels/6868152657543d1f8be4ece3/colorLogoPNG_1751652184592.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510278/VUCVoycCg2R4CoQS4xDGMQ/plusam/plu-6868152657543d1f8be4ece3.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795655619/HmvAvtDfoCJYVRnmTxYJnw/plusam/plu-6868152657543d1f8be4ece3.m3u8"
     },
     {
       "name": "CRIME INVESTIGATION",
       "epg_id": "CRIME INVESTIGATION",
       "icon": "https://iyadtv.pages.dev/images/crime_investigation_65.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510284/Z6E03Yd3lpxSFykVEgvpnw/s/crime_invest/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795655626/42PBqiA8LR5QSLVTdJwQHg/s/crime_invest/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "e7a3d5916c824b459f105d8e2c7a3046:616f8ab0c416966e8de415cb60e9e6cf",
@@ -937,7 +877,7 @@
       "name": "Crunchyroll Stream 4",
       "epg_id": "primary-source:crunchyroll:3",
       "icon": "https://iyadtv.pages.dev/images/crunchyroll_66.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510319/aLxkVfXppxu2B3E4p1teCQ/plusam/US2000018YI"
+      "url": "https://ovh.rise2the.top/aldous/1795655661/q924AcjKJqp_cjK5vRjGBg/plusam/US2000018YI"
     },
     {
       "name": "Curiosity Now",
@@ -949,7 +889,7 @@
       "name": "Da Ai TV",
       "epg_id": "primary-source:bs10moreconvergechannels:3",
       "icon": "https://static.wikia.nocookie.net/logopedia/images/a/a4/Da_Ai_Television_%28Taiwan%29_logo.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509727/c8-cCnA1YuZElSlnUGvfFw/cv4/001/2/ch00000090990000001201/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoc972%2B9bszPiQPXL2uIItWsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655105/qKSq_JvLG_FTLTg-QY8Qhw/cv4/001/2/ch00000090990000001201/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoc972%2B9bszPiQPXL2uIItWsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Danger TV",
@@ -961,7 +901,7 @@
       "name": "DAZN",
       "epg_id": "DAZN",
       "icon": "https://cdn.iyad.space/dazn.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510360/CiojBcUYKXbBekW5oUd3bQ/hls/dazn/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795655701/QE-omyfMrZ1k38AHXE8ASA/hls/dazn/stream.m3u8"
     },
     {
       "name": "DAZN Ringside",
@@ -973,7 +913,7 @@
       "name": "DD National",
       "epg_id": "primary-source:bs10moreconvergechannels:4",
       "icon": "https://static.wikia.nocookie.net/logopedia/images/2/2a/Ddnational2023.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509737/aLs6H2m657p5zLxmOrGutA/cv10/001/2/ch00000090990000001148/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApXWNNS2TvTF9lR8xvbk1CJsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655115/3gJR1d0QkDc6xcDkkk6Kyg/cv10/001/2/ch00000090990000001148/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApXWNNS2TvTF9lR8xvbk1CJsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Deal Zone",
@@ -985,7 +925,7 @@
       "name": "DepEd TV",
       "epg_id": "DepEd TV",
       "icon": "https://iyadtv.pages.dev/images/deped_channel_70.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510350/2jsOA-azelAp4jEYIF7xSg/s/depedch_sd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795655692/TaAAShhaOLxXNWVfETBTxQ/s/depedch_sd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "c1a5e8329d644f70b2187a3c6e5d2041:55979431f291f7dff35a43b73b3c2a36",
@@ -1003,7 +943,7 @@
       "name": "Discovery Channel",
       "epg_id": "Discovery Channel",
       "icon": "https://iyadtv.pages.dev/images/discovery-channel.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795510416/-2Mvt0rnJOqL4oPXqMj7ug/s/discovery/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795655762/0pBGuo8FZ9Z4opTN_kD_DA/s/discovery/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "d5a7f8219c364e50b2147f6d3a8c9025:c77d5e56c52c4065c42594422ac85e2c",
@@ -1045,7 +985,7 @@
       "name": "Disney Channel",
       "epg_id": "Disney Channel",
       "icon": "https://iyadtv.pages.dev/images/disney_channel_79.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510476/OMlswt6ag0gDBfMs3JW2zg/hls/disneychannel/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795655815/js8ADQLw8SBKS2nA5gpx4Q/hls/disneychannel/stream.m3u8"
     },
     {
       "name": "Disney Jr",
@@ -1063,7 +1003,7 @@
       "name": "Disney XD",
       "epg_id": "primary-source:disneychannel:2",
       "icon": "https://iyadtv.pages.dev/images/disney_xd_81.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510490/KeSB_2CCinp9Udq8RyO_2w/scalecdn/2587.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795655828/dLRtOL90aBOGqAGYDWm35Q/scalecdn/2587.m3u8"
     },
     {
       "name": "DMAX",
@@ -1093,7 +1033,7 @@
       "name": "Dora TV",
       "epg_id": "primary-source:kidstv:5",
       "icon": "https://i.imgur.com/zJuSbmU.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511644/V5dgD6_0Q4N9fu6837HKxg/plusam/plu-62e951258a26d40007b3034c.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795659738/lIU66Et_YE8edbYCFDvaLg/plusam/plu-62e951258a26d40007b3034c.m3u8"
     },
     {
       "name": "Dream TV PH",
@@ -1105,7 +1045,7 @@
       "name": "Dreamworks HD",
       "epg_id": "Dreamworks HD",
       "icon": "https://iyadtv.pages.dev/images/dreamworks_hd_85.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510577/9rRrK0GSOVcvWcZROb6rbQ/s/cg_dreamworks_hd1/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795655900/wyYF5qYH_oCwt7mpXDVV3Q/s/cg_dreamworks_hd1/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "1f7c9a425d864e30b2198a3c6f7d5041:b392ee3cd42686a8cff3070eef614745",
@@ -1117,7 +1057,7 @@
       "name": "Dreamworks Tagalized",
       "epg_id": "primary-source:dreamworkshd:1",
       "icon": "https://iyadtv.pages.dev/images/dreamworks_tagalized_86.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510587/DoVcKtFJL6jY9Q7lZtQjcA/s/cg_dreamworktag/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795655908/QCe2YzOXCYlfZ_pBp0U5lw/s/cg_dreamworktag/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "6f9c3a218d454b70a2187e5c3d6f9042:337ca7b74b462dd1ba7441553614538a",
@@ -1135,7 +1075,7 @@
       "name": "DW News",
       "epg_id": "DW News",
       "icon": "https://cdn.iyad.space/images/dw-news.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510599/KUpbBpaaqflAyyqRBdtmRA/cv8/001/2/ch00000090990000001166/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoTcUYwq3PMi%2FTObKiSY6bDsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655917/WWOWaTOKnasl7ykyZJWwgA/cv8/001/2/ch00000090990000001166/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoTcUYwq3PMi%2FTObKiSY6bDsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "DZMM Teleradyo",
@@ -1153,43 +1093,43 @@
       "name": "DZRH TV",
       "epg_id": "DZRH TV",
       "icon": "https://iyadtv.pages.dev/images/dzrh-tv.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795510627/4tdhqB7cg3gOaizcWsZ3aQ/cv1/001/2/ch00000090990000001174/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAorTFLlVQhyuanlrUuZnA07syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655938/JgexxNqQ7UOtcwp47i2S6A/cv1/001/2/ch00000090990000001174/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAorTFLlVQhyuanlrUuZnA07syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "EDGE SPORT",
       "epg_id": "EDGE SPORT",
       "icon": "https://cdn.iyad.space/images/edge.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510673/JRr1z44VPDZR6MCuShcAWQ/cv2/001/2/ch00000090990000001406/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArD3MimqPOP6OVIBIcXmXdD2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655980/-N4eW_OqWTHdL2mct_1wlA/cv2/001/2/ch00000090990000001406/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArD3MimqPOP6OVIBIcXmXdD2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "ESPN",
       "epg_id": "ESPN",
       "icon": "https://iyadtv.pages.dev/images/espn.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795510641/aloMKDvaeapKfURgodxPAQ/usa-s/ESPN-HD/index.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795655950/aGi1mzFeXAzK7fPrBuhA5A/usa-s/ESPN-HD/index.m3u8"
     },
     {
       "name": "ESPN U",
       "epg_id": "primary-source:espn:3",
       "icon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1280px-ESPN_U_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",
-      "url": "https://ovh.rise2the.top/aldous/1795510665/PEKTobz7R84tSX7OvxnKOw/usa-s/ESPN-U-HD/index.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795655972/ZZDqj87pNCJSWXG94JRbPQ/usa-s/ESPN-U-HD/index.m3u8"
     },
     {
       "name": "ESPN2",
       "epg_id": "primary-source:espn:1",
       "icon": "https://iyadtv.pages.dev/images/espn.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795510650/KUT_S6-a_ASGEXEVx2W8fA/hls/espn2/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795655957/a3NpeWFJH09O-fnCpYl3jQ/hls/espn2/stream.m3u8"
     },
     {
       "name": "ESPNEWS",
       "epg_id": "primary-source:espn:2",
       "icon": "https://cdn.iyad.space/espnews.png",
-      "url": "https://rise2the.top/aldous/1795510658/nXr8gTVLceGK7N9ld7wAWg/hls/espnews/stream.m3u8"
+      "url": "https://rise2the.top/aldous/1795655965/tkkAPqmFhCS88S1rmcY99Q/hls/espnews/stream.m3u8"
     },
     {
       "name": "Euro News.",
       "epg_id": "Euro News.",
       "icon": "https://i.ibb.co/mr4gLvgn/image-2026-06-08-132221236.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510685/IDw4qGS0muwwPLBRZO-uWg/cv4/001/2/ch00000090990000001336/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqhLZBm9kWDyfiRCDGdvX2q2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655992/kyaoQGS2ekwRPNoRtb7BPw/cv4/001/2/ch00000090990000001336/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqhLZBm9kWDyfiRCDGdvX2q2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Evolution Earth",
@@ -1201,7 +1141,7 @@
       "name": "EWTN",
       "epg_id": "EWTN",
       "icon": "https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw",
-      "url": "https://ovh.rise2the.top/aldous/1795510707/zuoWMfhYRZ9dEk607HjS2Q/cv2/001/2/ch00000090990000001104/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArqe%2B6z8S0P4H4d709E7gynsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795656012/74ohOr4TfTDtHKhMP5-I1w/cv2/001/2/ch00000090990000001104/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArqe%2B6z8S0P4H4d709E7gynsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "F1 TV",
@@ -1231,7 +1171,7 @@
       "name": "Fashion TV HD",
       "epg_id": "Fashion TV HD",
       "icon": "https://iyadtv.pages.dev/images/fashion_tv_hd_93.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510761/X3fUg-c3iCgob7URvkYz1g/s/fashiontvhd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795656042/rt76snGtuI0yhdoaM4_Nrg/s/fashiontvhd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "c8a4e6917f324d05b9186c5e3a2f7049:92b4ece8c84379145045267b47f183d2",
@@ -1273,7 +1213,7 @@
       "name": "Filam TV S2",
       "epg_id": "primary-source:mindanownetwork:3",
       "icon": "https://iyadtv.pages.dev/images/filamtv_96.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512011/6uCOjddx4l6EPuQGA5Zqow/cv6/001/2/ch00000090990000001195/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795660039/a5aQsv1ojRuPJseeCFa3VA/cv6/001/2/ch00000090990000001195/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bq9JT56AWWQTbgfAlCVVWODytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Filmrise Anime",
@@ -1297,7 +1237,7 @@
       "name": "Food Network HD",
       "epg_id": "Food Network HD",
       "icon": "https://iyadtv.pages.dev/images/food_network_hd_100.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510819/cwY5abSuaJnUEi2sFtf0Pg/s/cg_foodnetwork_hd1/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795657343/w2imWhCVRiai9IP3t0pGvA/s/cg_foodnetwork_hd1/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "b1f4a8926c374d509e218a7c3f5d6049:15cde0b44b44f38ea936513a99606c1b",
@@ -1321,7 +1261,7 @@
       "name": "Fox Sports 1",
       "epg_id": "Fox Sports 1",
       "icon": "https://static-media.fox.com/fmc/prod/network_assets/FS1_Color@3x.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510851/qK_RXdizDbxKoSyBMoMF2A/usa-s/FOX-SPORTS-1/index.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795657370/Rf_P9m5yQ3pF-PwK4YxM_A/usa-s/FOX-SPORTS-1/index.m3u8"
     },
     {
       "name": "FRANCE 24",
@@ -1333,7 +1273,7 @@
       "name": "FRANCE 24 Stream 2",
       "epg_id": "primary-source:france24:1",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png?_=20180409235622",
-      "url": "https://ovh.rise2the.top/aldous/1795510866/PJTLVbohrBtKuK5l5N9mbQ/s/france24/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795657386/w_NqutAUEEfcA6XWPlsNRg/s/france24/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "92d8f3416c754b09a2187e5d3a9c6042:4e668d238bc656b7d2c7535757aa9531",
@@ -1351,7 +1291,7 @@
       "name": "Global Trekker",
       "epg_id": "Global Trekker",
       "icon": "https://iyadtv.pages.dev/images/global_trekker_112.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510890/WBIGMYCLuGZdlO967vnwfg/s/globaltrekker/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795657402/GccdR2xMkY-xwDemjchBew/s/globaltrekker/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "e4b8d2916a534f709c187d3e5a2f6049:85d67d8b52caf380c82dc45b07f26f69",
@@ -1369,7 +1309,7 @@
       "name": "GMA",
       "epg_id": "GMA",
       "icon": "https://iyadtv.pages.dev/images/gma_kapuso_105.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510900/U_8KqtIti6nRg7FOoO0SbA/hls/gma/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795657411/hRjidnt6czFi6hbnG7yuDQ/hls/gma/stream.m3u8"
     },
     {
       "name": "GMA Life TV",
@@ -1411,13 +1351,13 @@
       "name": "GMA Stream 2",
       "epg_id": "primary-source:gma:1",
       "icon": "https://iyadtv.pages.dev/images/gma_kapuso_105.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510907/YXhCluACzgfRyUNzWKHq0w/cv1/001/2/ch00000090990000001093/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoLvT86fM74ocVChyFS93HUsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795657417/6n39A95K36vCaXcOzCVQQg/cv1/001/2/ch00000090990000001093/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoLvT86fM74ocVChyFS93HUsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "GNN",
       "epg_id": "GNN",
       "icon": "https://iyadtv.pages.dev/images/gnn.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510954/rx8Co8chseAwYjFUZRsdrA/cv3/001/2/ch00000090990000001234/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp6sHVPy02nySMqUY2vMm%2BjsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795657458/dNNaLNPUG-bNrLfWKguYTw/cv3/001/2/ch00000090990000001234/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp6sHVPy02nySMqUY2vMm%2BjsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Golden TV",
@@ -1429,37 +1369,37 @@
       "name": "Good TV",
       "epg_id": "primary-source:bs10moreconvergechannels:5",
       "icon": "https://i.imgur.com/0ZDw53x.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509747/_lMt6zkuLQQOBoJU7rQE8A/cv2/001/2/ch00000090990000001175/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApQqyrYGvsQGfBZz9lkpM7HsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655124/k8Z0R6W6pZkuRsSJJjAUyQ/cv2/001/2/ch00000090990000001175/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApQqyrYGvsQGfBZz9lkpM7HsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "GTV",
       "epg_id": "GTV",
       "icon": "https://iyadtv.pages.dev/images/gtv_114.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510974/0VF8SnF95rRi2MGIBctaew/hls/gtv/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795657477/4KwzNhaP_-XFHTyP2U7qgw/hls/gtv/stream.m3u8"
     },
     {
       "name": "GTV Stream 2",
       "epg_id": "primary-source:gtv:1",
       "icon": "https://iyadtv.pages.dev/images/gtv_114.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510981/K3E9e5MEKJStmRssApBdTQ/cv1/001/2/ch00000090990000001143/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArwAtJC%2BsmBQ5ARU076BdkhsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795657484/AnRHoJAwkPtZYYnnq0oDYg/cv1/001/2/ch00000090990000001143/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArwAtJC%2BsmBQ5ARU076BdkhsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Hallmark",
       "epg_id": "Hallmark",
       "icon": "https://cdn.iyad.space/hallmark.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511007/PrA-BcJibMsBDKWzQRNc_Q/hls/hallmark/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795657508/aIoR0alHxd7R-5upOINk3g/hls/hallmark/stream.m3u8"
     },
     {
       "name": "Hallmark Movies & More",
       "epg_id": "primary-source:hallmark:1",
       "icon": "https://cdn.iyad.space/hallmark2.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511014/My8gd8YYynnbTJ7L02_7ow/plusam/plu-628e685ba3811100070551a8.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795657515/xv5eFdoJ6aXi1yu0UdyGRg/plusam/plu-628e685ba3811100070551a8.m3u8"
     },
     {
       "name": "hallypop",
       "epg_id": "hallypop",
       "icon": "https://iyadtv.pages.dev/images/hallypop_116.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510994/9odhraa6FIRTbnViaJzclA/cv2/001/2/ch00000090990000001152/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArQQqEzMGzqacd7xs%2FVYEXbsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795657494/0YOvubTjfzze3TO9ck4vKQ/cv2/001/2/ch00000090990000001152/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArQQqEzMGzqacd7xs%2FVYEXbsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Haunt TV",
@@ -1471,7 +1411,7 @@
       "name": "HBO",
       "epg_id": "HBO",
       "icon": "https://iyadtv.pages.dev/images/hbo_117.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511049/WcMcCli_nXgNy-y7wHx9vQ/cv1/001/2/ch00000090990000001065/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAosKg8aLji3LHWqHUI%2FwQyJsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795657533/zjd9624IFxvLezjEufnQhw/cv1/001/2/ch00000090990000001065/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAosKg8aLji3LHWqHUI%2FwQyJsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "HBO Boxing",
@@ -1519,31 +1459,31 @@
       "name": "HBO POP",
       "epg_id": "HBO POP",
       "icon": "https://iyadtv.pages.dev/images/hbo_pop_126.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511164/stEf7QqgF6vIAZQEMze0XQ/hls/hbopop/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795659305/C8CWTNGgFNUotAuenpdKQg/hls/hbopop/stream.m3u8"
     },
     {
       "name": "HBO Signature",
       "epg_id": "HBO Signature",
       "icon": "https://iyadtv.pages.dev/images/hbo_signature_123.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511156/WOL_Sq0opTA3zCDx-nLHNw/hls/hbosig/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795659298/HG5WRxTFwqAEjYPreUQlIA/hls/hbosig/stream.m3u8"
     },
     {
       "name": "HBO Xtreme",
       "epg_id": "HBO Xtreme",
       "icon": "https://iyadtv.pages.dev/images/hbo_xtreme_127.png",
-      "url": "https://rise2the.top/aldous/1795511171/hd1IzvORxbL6xpbN3oGOmg/hls/hbox/stream.m3u8"
+      "url": "https://rise2the.top/aldous/1795659313/6PCfBJkWDfrP0SwNl6Zhjg/hls/hbox/stream.m3u8"
     },
     {
       "name": "HBO Zone",
       "epg_id": "HBO Zone",
       "icon": "https://iyadtv.pages.dev/images/hbo_zone_128.png",
-      "url": "https://rise2the.top/aldous/1795511179/jghqAMfXpNl7AzwBrh5qeQ/hls/hbozone/stream.m3u8"
+      "url": "https://rise2the.top/aldous/1795659320/_0o_vDWWsiLZ0Phrm9YdTQ/hls/hbozone/stream.m3u8"
     },
     {
       "name": "HGTV HD",
       "epg_id": "HGTV HD",
       "icon": "https://iyadtv.pages.dev/images/hgtv_hd_130.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511185/0HT4U0LCgEwavakWxeY59g/s/hgtv_hd1/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795659327/yr3xpywx7TFYk4AHYihyaw/s/hgtv_hd1/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "4e9a6c317d524f808b163c5a2e7d9048:5079e2288b584f47d4bbf8d149b2a986",
@@ -1555,7 +1495,7 @@
       "name": "History HD",
       "epg_id": "History HD",
       "icon": "https://iyadtv.pages.dev/images/history_hd_132.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511196/2bYntlhXGsDQVKpxwsCsXw/s/dr_historyhd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795659336/eXQGX-OtMYhxZaqt6KYXrA/s/dr_historyhd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "f5c7a8219d464e30b2186a3f7c5d9041:dacc84b7010ca22f8c63a7c290461ed3",
@@ -1567,7 +1507,7 @@
       "name": "Hits HD",
       "epg_id": "Hits HD",
       "icon": "https://iyadtv.pages.dev/images/hits_hd_133.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511310/xtfk_hMFZjMqqW3RwcA7oA/s/hits_hd1/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795659419/fPVI7nR6ly9uQdTjDpgSMA/s/hits_hd1/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "d2e8c4715a634f09b2187c6d3e9a5042:8b11760042654021997fd07a8a0b7acc",
@@ -1579,7 +1519,7 @@
       "name": "Hits Movies",
       "epg_id": "Hits Movies",
       "icon": "https://iyadtv.pages.dev/images/hits_movies_134.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511321/BFtVfZLVFnGYrrXKEmA6eQ/s/hitsmovies/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795659427/0rq87pDFQVDHSd2JsGcGDg/s/hitsmovies/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "45c9e7328b614d059f247a6c3e5d1048:13ef5feae7c84eb06bcc655a225fb01d",
@@ -1591,7 +1531,7 @@
       "name": "Hits Now",
       "epg_id": "Hits Now",
       "icon": "https://iyadtv.pages.dev/images/hits_now_135.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511331/-QvTZgaOom4pQufyzKXAmQ/s/cg_hitsnow/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795659436/mRrBfd3TBSnvI7YRL91vgQ/s/cg_hitsnow/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "24a8e6917c534d809f165b3e6a2d9047:183f05bcb80e9cfcb613b8c767777f27",
@@ -1621,7 +1561,7 @@
       "name": "Hunan TV",
       "epg_id": "primary-source:bs10moreconvergechannels:6",
       "icon": "https://cdn.iyad.space/hunantv.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509759/rmJvkHpmyRP_TLJSmVOVmQ/cv5/001/2/ch00000090990000001164/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp6wcBVnnqOi%2FM7rVR2UnT6syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655135/tGDuB-isg0iV15V-j-3U4g/cv5/001/2/ch00000090990000001164/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp6wcBVnnqOi%2FM7rVR2UnT6syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "HypeTV",
@@ -1633,7 +1573,7 @@
       "name": "IBC13",
       "epg_id": "IBC13",
       "icon": "https://iyadtv.pages.dev/images/ibc13_138.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511380/FtWGUa8GvHN16pj3a_-CsA/s/ibc13_sd_new/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795659479/qBQBEDecv8AO7GZQMAgrTg/s/ibc13_sd_new/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "f4a8d6216c954e709b187d3a5f2c8049:34710df996a4089ee6f7e8deb7f46586",
@@ -1645,7 +1585,7 @@
       "name": "IBC13 Stream 2",
       "epg_id": "primary-source:ibc13:1",
       "icon": "https://iyadtv.pages.dev/images/ibc13_138.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511392/fubSYdKUoB1TbQF7gCG5dA/cv3/001/2/ch00000090990000001089/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAo0mldwqx%2BTfpKT3KIgGit9syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795659488/xutxCHxUGO787IMsUutkWw/cv3/001/2/ch00000090990000001089/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAo0mldwqx%2BTfpKT3KIgGit9syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "impact Plus",
@@ -1669,7 +1609,7 @@
       "name": "INCTV Stream 2",
       "epg_id": "primary-source:inctv:1",
       "icon": "https://iyadtv.pages.dev/images/inctv_141.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511415/Ui_QVcdSouO1xLYz8tZl8g/cv1/001/2/ch00000090990000001092/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArC5ZD%2FYbS0KSGrFVJUNIMksyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795659505/uk14k5luORrj3aR8lVuvqA/cv1/001/2/ch00000090990000001092/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArC5ZD%2FYbS0KSGrFVJUNIMksyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Inside Arm Wrestling",
@@ -1687,7 +1627,7 @@
       "name": "Inuyasha",
       "epg_id": "primary-source:animebypluto:3",
       "icon": "https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509238/zGpW58ZOieaWAuPK8e-KXw/plusam/plu-67c63b90a20c0399a381b816.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795654659/x1hUHT66PIEpbXJu5IKKpA/plusam/plu-67c63b90a20c0399a381b816.m3u8"
     },
     {
       "name": "InWild",
@@ -1735,7 +1675,7 @@
       "name": "Jeepney TV Stream 2",
       "epg_id": "primary-source:jeepneytv:1",
       "icon": "https://iyadtv.pages.dev/images/jeepney_tv_142.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511513/LS713ZFefKvsh-rmbPUoww/cv4/001/2/ch00000090990000001250/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApGbNnk2H5Bi8k4yR%2B9AHGFsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795659615/sV1efdC3cjMC-8X_6savLA/cv4/001/2/ch00000090990000001250/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApGbNnk2H5Bi8k4yR%2B9AHGFsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Just for Laughs Gags",
@@ -1765,19 +1705,25 @@
       "name": "Kapamilya Channel HD",
       "epg_id": "Kapamilya Channel HD",
       "icon": "https://iyadtv.pages.dev/images/kapamilya_channel_hd.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511549/-u7WtV2u-X8_GGnhvAMX1Q/hls/kapamilyahd/stream.m3u8"
+      "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd",
+      "source_format": "dash",
+      "drm_type": "clearkey",
+      "drm_key": "bd17afb5dc9648a39be79ee3634dd4b8:b475084a1a58857e18480e30fbb0e544",
+      "headers": {
+        "Origin": "https://iyad.click"
+      }
     },
     {
       "name": "Kapamilya Channel HD Stream 2",
       "epg_id": "primary-source:kapamilyachannelhd:1",
       "icon": "https://iyadtv.pages.dev/images/kapamilya_channel_hd.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511557/ONzh1hE5c-ufjux0ntht8A/cv1/001/2/ch00000090990000001286/index.m3u8?AuthInfo=Tajaqa%2FdPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY6w65FFCygtQMRRIUPF0xuXe9OnZTxGvJPcGpQT0Y5Pwg%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795659658/9QRweAaRmfd-TahTp4-gVw/cv1/001/2/ch00000090990000001286/index.m3u8?AuthInfo=Tajaqa%2FdPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY6w65FFCygtQMRRIUPF0xuXe9OnZTxGvJPcGpQT0Y5Pwg%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Kapatid Channel",
       "epg_id": "primary-source:tv5:3",
       "icon": "https://iyadtv.pages.dev/images/kapatid-channel.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795508841/IqPNwvguHyyt9Q6Y4SEvEA/s/kapatid_hd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654306/eyOHYmivkQR4zXKkKE3ocg/s/kapatid_hd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "8f7a2c913d6b4e5a9f127c8d4e6a1b90:a73d3d1211fb23084c62572706f45397",
@@ -1789,7 +1735,7 @@
       "name": "Kapatid Live",
       "epg_id": "primary-source:tv5:4",
       "icon": "https://iyadtv.pages.dev/images/kapatid-live.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795508850/1RtKX6HCc78GUHgirdLGag/s/pphd_sdi1/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654315/Q7uRc23BBZE1zv9wMJ6pGA/s/pphd_sdi1/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "dbf670bed2ea4905a114557e90e7ffb6:616059bec8dfb27f3524b7e7c31b6cff",
@@ -1807,7 +1753,7 @@
       "name": "KBS World",
       "epg_id": "KBS World",
       "icon": "https://iyadtv.pages.dev/images/kbs_world_149.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511576/l6K89i8meUA0VKaUNwnd6g/s/kbsworld/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795659675/kaoqD-F4wA74zZtM0WsyGQ/s/kbsworld/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "e8c5d2317a944f06b2186d3a9e7c5042:ce327be0871677eb1c480d10a73eac34",
@@ -1843,7 +1789,7 @@
       "name": "Kix HD",
       "epg_id": "Kix HD",
       "icon": "https://iyadtv.pages.dev/images/kix_hd_154.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511749/1ETtVunnqb6wNdOIvmOf9w/s/kix_hd1/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795659820/QdTOdLACs7F4qRtUqXWtPg/s/kix_hd1/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "7f4a9c312e854d67b0198c6f5a3e7240:141f058ad1a6230e7c6f9d302ce378ef",
@@ -1873,7 +1819,7 @@
       "name": "Knowledge Channel Stream 2",
       "epg_id": "primary-source:knowledgechannel:1",
       "icon": "https://iyadtv.pages.dev/images/knowledge_channel_156.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511791/DFrAvOXrpJ6rdKgWcEc1uA/cv10/001/2/ch00000090990000001340/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApqUIe1xo9fgdQj%2FdedKSTy2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795659855/0S6P6Kc1qdRcExZDsPV2ow/cv10/001/2/ch00000090990000001340/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApqUIe1xo9fgdQj%2FdedKSTy2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Kpop",
@@ -1897,13 +1843,13 @@
       "name": "Lego Kids TV",
       "epg_id": "primary-source:kidstv:7",
       "icon": "https://images.pluto.tv/channels/60fb01a24795a6000762fe83/colorLogoPNG.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511681/0mfZir5d4QPYKtGegRa3eA/plusam/plu-60fb01a24795a6000762fe83.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795659762/cfDL2Dq9z28WV_FBGAx-sA/plusam/plu-60fb01a24795a6000762fe83.m3u8"
     },
     {
       "name": "Lifetime",
       "epg_id": "Lifetime",
       "icon": "https://iyadtv.pages.dev/images/lifetime_159.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511844/R7lC1Sg95EQlxWErBDD2Cg/s/dr_lifetime/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795659902/IhxLxbb3-tfRbHDU8QIFfQ/s/dr_lifetime/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "b9e6a3214c754f908d165a3c7e2f6048:32300d9517f91a4acb747d360768dd00",
@@ -1915,13 +1861,13 @@
       "name": "Lifetime Movie Favorites",
       "epg_id": "primary-source:lifetime:1",
       "icon": "https://cdn.iyad.space/moviefav.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511854/nexyimWVGxwK72qjBk62wA/plusam/plu-63335b193583440007c859fb.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795659912/EHVp17LxIfNTCQ6Jw2i8OA/plusam/plu-63335b193583440007c859fb.m3u8"
     },
     {
       "name": "Light TV",
       "epg_id": "Light TV",
       "icon": "https://iyadtv.pages.dev/images/light_tv_160.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511882/58P1yrA9dbkabocZLI2Mwg/cv3/001/2/ch00000090990000001103/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqkZ6SnNx3gh97OtxQ2ygibsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795659927/tmzuQk7l9JwRTS_yuuHezw/cv3/001/2/ch00000090990000001103/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqkZ6SnNx3gh97OtxQ2ygibsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Living Asia Channel",
@@ -1933,13 +1879,13 @@
       "name": "Living Asia Channel S2",
       "epg_id": "primary-source:mindanownetwork:5",
       "icon": "https://iyadtv.pages.dev/images/living_asia_channel_161.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512029/_ziqf5KZRODY1X_Kqx7PZw/cv10/001/2/ch00000090990000001154/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795660055/YuK3Ir31UQp5X4kXwm4qew/cv10/001/2/ch00000090990000001154/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqiuyXGbkpJmyl8E%2Flkr9IBytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Lotus Macau",
       "epg_id": "Lotus Macau",
       "icon": "https://iyadtv.pages.dev/images/lotus_macau_162.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511893/593Bri6390bP-QTJVYaF9Q/s/lotusmacau_prd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795659937/saPTiOm4EWCP2YJ3cJK5fA/s/lotusmacau_prd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "e2c9a5748b314f60a9276d5e3c1f8042:c845cc41e3826b6d880b802911eb43f9",
@@ -1951,7 +1897,7 @@
       "name": "Lotus Macau Stream 2",
       "epg_id": "primary-source:lotusmacau:1",
       "icon": "https://iyadtv.pages.dev/images/lotus_macau_162.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511903/PTcYDvrosJzC6dnJk-29rg/cv3/001/2/ch00000090990000001196/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795659946/9CHlFRdbOiwSWZ7z28eY7w/cv3/001/2/ch00000090990000001196/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrUraXHxRLZkchi69sJ%2B10xytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Love Nature",
@@ -1975,7 +1921,7 @@
       "name": "Metro Channel",
       "epg_id": "Metro Channel",
       "icon": "https://iyadtv.pages.dev/images/metro_channel_166.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512045/yFefzAMML67TlbI6xzwZ1Q/cv2/001/2/ch00000090990000001267/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr4hyjlpFsJWrmHS5nwWoXTsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795660070/bmq7_G461sYs1Gju1Iogtw/cv2/001/2/ch00000090990000001267/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr4hyjlpFsJWrmHS5nwWoXTsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Mindanow Network",
@@ -1987,13 +1933,13 @@
       "name": "Mindanow Network Stream 2",
       "epg_id": "primary-source:mindanownetwork:1",
       "icon": "https://iyadtv.pages.dev/images/mindanow_network_165.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511977/ukPwpMxe8d4djqhDUOQjpQ/cv10/001/2/ch00000090990000001123/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrWYLxykQwHejqAgxTqFbr7ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795660023/m86IWLpi56_blvJpKEEuTg/cv10/001/2/ch00000090990000001123/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrWYLxykQwHejqAgxTqFbr7ytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Minecraft TV",
       "epg_id": "primary-source:kidstv:10",
       "icon": "https://cdn.medal.tv/games/838/cover.jpg",
-      "url": "https://ovh.rise2the.top/aldous/1795511723/k1kYHwt-ke2n7Lqr_nqcXA/plusam/USAJ3504531A"
+      "url": "https://ovh.rise2the.top/aldous/1795659795/u72Ao28MfEK9kkzjgEADdg/plusam/USAJ3504531A"
     },
     {
       "name": "MIRAMAX",
@@ -2005,13 +1951,13 @@
       "name": "MLB",
       "epg_id": "primary-source:mlbnetwork:1",
       "icon": "https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512071/69meUjGIHizzKxeY0LgD4A/plusam/plu-5e66968a70f34c0007d050be.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795660097/bRpZMf5QcHCqjd53wpYX5A/plusam/plu-5e66968a70f34c0007d050be.m3u8"
     },
     {
       "name": "MLB Network",
       "epg_id": "MLB Network",
       "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/500px-MLBNetworkLogo.svg.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512064/CLyWjo9pJeKVm-DYbSXU6g/hls/mlbnetwork/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795660089/OWgcdmM2tO5iFKgpvAimeg/hls/mlbnetwork/stream.m3u8"
     },
     {
       "name": "MMA-TV",
@@ -2053,13 +1999,13 @@
       "name": "Modern Marvels",
       "epg_id": "primary-source:historyhd:4",
       "icon": "https://iyadtv.pages.dev/images/history_hd_132.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511232/s0wz_pyyB21fdH4UGBs_AQ/plex-epg/library/parts/5e20b730f2f8d5003d739db7-63c97da7187b3c9f3581fdfd/?X-Plex-Token=exG2wvjzZcoAdbf7yL29"
+      "url": "https://ovh.rise2the.top/aldous/1795659370/vQrJQKFjyVYn_ubmOeL5PQ/plex-epg/library/parts/5e20b730f2f8d5003d739db7-63c97da7187b3c9f3581fdfd/?X-Plex-Token=exG2wvjzZcoAdbf7yL29"
     },
     {
       "name": "Moonbug Kids",
       "epg_id": "Moonbug Kids",
       "icon": "https://iyadtv.pages.dev/images/moonbug_kids_169.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512173/de0M4edta0-Y4782nZOzqQ/s/cg_moonbug_kids_sd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795660181/7qhBva146v0RXey6WpkUNA/s/cg_moonbug_kids_sd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "48e7d3219c564f80b2147a5d3e6c2048:23a7b41054c60983ad020652f7ffa06e",
@@ -2221,7 +2167,7 @@
       "name": "Mythbusters Stream 2",
       "epg_id": "primary-source:mythbusters:1",
       "icon": "https://iyadtv.pages.dev/images/mythbusters_178.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512388/0LKLZBxHL8LTO_sgpHu53Q/plusam/plu-66e0b4866ad04d0008fff4d8.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795660843/jVK2rK8vGNaDjRTa6gdGbw/plusam/plu-66e0b4866ad04d0008fff4d8.m3u8"
     },
     {
       "name": "MYX",
@@ -2239,13 +2185,13 @@
       "name": "MYX PH",
       "epg_id": "primary-source:myx:1",
       "icon": "https://iyadtv.pages.dev/images/myx_179.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512480/Jvn81_mBLuMa2cJ-zZDLPA/cv2/001/2/ch00000090990000001252/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApnsWBpPBgeEj%2FSfIRshYPE2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795660928/HoYsL44W8Kovou0rCyeMnQ/cv2/001/2/ch00000090990000001252/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApnsWBpPBgeEj%2FSfIRshYPE2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Naruto",
       "epg_id": "primary-source:animebypluto:4",
       "icon": "https://images.pluto.tv/channels/5da0c85bd2c9c10009370984/colorLogoPNG.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509262/sv-m3FSoECHHtLa3r7sWzw/plusam/plu-5da0c85bd2c9c10009370984.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795654678/yS73_-vsuXuHPqtKLqSdGw/plusam/plu-5da0c85bd2c9c10009370984.m3u8"
     },
     {
       "name": "Nat Geo Wild",
@@ -2272,6 +2218,54 @@
       }
     },
     {
+      "name": "NBA 2",
+      "epg_id": "primary-source:nbatv:2",
+      "icon": "https://cdn.iyad.space/nba.png",
+      "url": "https://rise2the.top/aldous/1795661001/V9T2lMohVSyfci_o86perA/hls/nba2/stream.m3u8"
+    },
+    {
+      "name": "NBA 3",
+      "epg_id": "primary-source:nbatv:3",
+      "icon": "https://cdn.iyad.space/nba.png",
+      "url": "https://rise2the.top/aldous/1795661009/j7C_mtdljbGek985cdXKtw/hls/nba3/stream.m3u8"
+    },
+    {
+      "name": "NBA 4",
+      "epg_id": "primary-source:nbatv:4",
+      "icon": "https://cdn.iyad.space/nba.png",
+      "url": "https://rise2the.top/aldous/1795661016/csk2Cf0WbHVp6QFSdCQPGA/hls/nba4/stream.m3u8"
+    },
+    {
+      "name": "NBA 5",
+      "epg_id": "primary-source:nbatv:5",
+      "icon": "https://cdn.iyad.space/nba.png",
+      "url": "https://rise2the.top/aldous/1795661022/OrJ64aMexVxAYHe_dk3gcw/hls/nba5/stream.m3u8"
+    },
+    {
+      "name": "NBA 6",
+      "epg_id": "primary-source:nbatv:6",
+      "icon": "https://cdn.iyad.space/nba.png",
+      "url": "https://rise2the.top/aldous/1795661030/Id6R_tc747XOpcXTn9JxfA/hls/nba6/stream.m3u8"
+    },
+    {
+      "name": "NBA 7",
+      "epg_id": "primary-source:nbatv:7",
+      "icon": "https://cdn.iyad.space/nba.png",
+      "url": "https://rise2the.top/aldous/1795661037/G4-faXZb82rgwiHjtvFcWg/hls/nba7/stream.m3u8"
+    },
+    {
+      "name": "NBA 8",
+      "epg_id": "primary-source:nbatv:8",
+      "icon": "https://cdn.iyad.space/nba.png",
+      "url": "https://rise2the.top/aldous/1795661044/q4m_pCuXd4sX1j-l0gAScg/hls/nba8/stream.m3u8"
+    },
+    {
+      "name": "NBA 9",
+      "epg_id": "primary-source:nbatv:9",
+      "icon": "https://cdn.iyad.space/nba.png",
+      "url": "https://rise2the.top/aldous/1795661057/GGCfzB5r1XWdsgK-jcJ23w/hls/nba9/stream.m3u8"
+    },
+    {
       "name": "NBA TV",
       "epg_id": "NBA TV",
       "icon": "https://iyadtv.pages.dev/images/nba_tv_184.png",
@@ -2287,7 +2281,7 @@
       "name": "NBA TV Philippines",
       "epg_id": "NBA TV Philippines",
       "icon": "https://iyadtv.pages.dev/images/nba_tv_philippines_185.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512647/8yVsOZiBdWPvgx3tUZhMkg/s/cgnl_nba/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795661063/SJxRsh-xrdilQIdGJkBMlw/s/cgnl_nba/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d",
@@ -2299,7 +2293,7 @@
       "name": "NCAA NXT",
       "epg_id": "NCAA NXT",
       "icon": "https://cdn.iyad.space/ncaa-nxt.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512657/GQrEGbuAfkvhZGbH3-8MDA/s/cg_ncaa/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795661073/ihR9U0DPwiUSyynR5h1Z3w/s/cg_ncaa/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "d84f2a917c364e58b10963a7f2c8d451:e75d40a44350a148b32ad27081eadacb",
@@ -2311,13 +2305,13 @@
       "name": "Net25",
       "epg_id": "Net25",
       "icon": "https://iyadtv.pages.dev/images/net25_186.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512703/UKxpR7K-5zcdyOwqm4RxdA/hls/net25/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795661116/xWvxc-P671_ntPd4LUURlw/hls/net25/stream.m3u8"
     },
     {
       "name": "Net25 Stream 2",
       "epg_id": "primary-source:net25:1",
       "icon": "https://iyadtv.pages.dev/images/net25_186.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512710/XASEwAYlF2fS_M9KfniAGw/cv3/001/2/ch00000090990000001090/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApBCCDeDIJn9rDuWx8BszuXsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795661123/QTMU4HVvic_8z1n42YqEoQ/cv3/001/2/ch00000090990000001090/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApBCCDeDIJn9rDuWx8BszuXsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "New KMovies",
@@ -2329,13 +2323,13 @@
       "name": "NFL Channel",
       "epg_id": "primary-source:mlbnetwork:3",
       "icon": "https://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG_1785344058498.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512100/P0UTWKnkph_92X1Xeoz60g/plusam/plu-5ced7d5df64be98e07ed47b6.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795660122/GIMFKfnMdwL-Ys-SBS9MyA/plusam/plu-5ced7d5df64be98e07ed47b6.m3u8"
     },
     {
       "name": "NFL Network",
       "epg_id": "primary-source:mlbnetwork:2",
       "icon": "https://cdn.iyad.space/nflnetwork.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512094/zr7MQ6nA3q00TA18ZUHubw/hls/nflnetwork/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795660115/qnf7TkROLDDtkrlIqqW0Kw/hls/nflnetwork/stream.m3u8"
     },
     {
       "name": "NHK World Japan",
@@ -2347,19 +2341,19 @@
       "name": "NHL Network",
       "epg_id": "primary-source:mlbnetwork:4",
       "icon": "https://cdn.iyad.space/nhlnetwork.png",
-      "url": "https://rise2the.top/aldous/1795512133/_vSa0ryLvV4PFiS3YFjWAw/hls/nhlnetwork/stream.m3u8"
+      "url": "https://rise2the.top/aldous/1795660144/3XvDzy8YL0558FoLZCx2eg/hls/nhlnetwork/stream.m3u8"
     },
     {
       "name": "NHL Network Stream 2",
       "epg_id": "primary-source:mlbnetwork:5",
       "icon": "https://cdn.iyad.space/nhlnetwork.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512141/_H60yLx24zZ7-jo7niFkwA/nhl/playlist.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795660152/d5pv8x1CJueo5RhLYwtrCw/nhl/playlist.m3u8"
     },
     {
       "name": "Nickelodeon",
       "epg_id": "Nickelodeon",
       "icon": "https://iyadtv.pages.dev/images/nickelodeon_hd_191.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512793/TiPth5zkh22gGeRIRI9Xcw/s/dr_nickelodeon/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795661188/LkQe51alLlackI-OlOh8HA/s/dr_nickelodeon/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "81f3e6924c754a08b9215d7e9c3f6048:094cd48e9729cb8bcb0e03e848fc8751",
@@ -2383,19 +2377,19 @@
       "name": "Nickelodeon Toons",
       "epg_id": "primary-source:nickelodeon:2",
       "icon": "https://static.wikia.nocookie.net/iepfanon/images/c/cc/Nickelodeon_Toons_Logo_2023.svg/revision/latest?cb=20231023192158",
-      "url": "https://ovh.rise2the.top/aldous/1795512832/j3hW7-Pm82beWOOQ6p3luA/plusam/plu-654ca7f92c1d3300086b608c.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795661224/NahrLDgKwSt45W60Oxiknw/plusam/plu-654ca7f92c1d3300086b608c.m3u8"
     },
     {
       "name": "Nickjr",
       "epg_id": "Nickjr",
       "icon": "https://iyadtv.pages.dev/images/nickjr_189.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512733/ZiRpYqPIMOAN-v0q7GR_qw/cv6/001/2/ch00000090990000001215/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795661148/eVbn5LtffmtQbEmJXNgzHA/cv6/001/2/ch00000090990000001215/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroUjrgwleoSk5QhQ%2F3YakaytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Nickjr Stream 2",
       "epg_id": "primary-source:nickjr:1",
       "icon": "https://iyadtv.pages.dev/images/nickjr_189.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512747/n_eamYe4xS8_lzCgmaHIrw/s/dr_nickjr/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795661160/Kh_iWHUUY_7r9y79LQVL9g/s/dr_nickjr/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "ca7e5b318d624f099c246a3e7d5f8140:3175f0646c504fad87e97c7677a85393",
@@ -2407,13 +2401,13 @@
       "name": "Nicktoons",
       "epg_id": "primary-source:nickelodeon:3",
       "icon": "https://iyad.click/images/nicktoons_193.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512855/DOQZfycHRh2Au9UPlnpEAQ/hls/nicktoons/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795661241/-N3IH7GFm2iBf3c6UckbTA/hls/nicktoons/stream.m3u8"
     },
     {
       "name": "One News HD",
       "epg_id": "One News HD",
       "icon": "https://iyadtv.pages.dev/images/one-news.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795512883/y9ZG0VE9yNygPfvSNk5Aig/s/onenews_hd1/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663789/w_CXmmdjW0pswsabRFuwJQ/s/onenews_hd1/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "d5c8a2914e734b609f127a3d6c5e8048:11368a3b001407d65a85b4edb410ecdd",
@@ -2425,7 +2419,7 @@
       "name": "One PH",
       "epg_id": "One PH",
       "icon": "https://iyadtv.pages.dev/images/one-ph.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795512892/3uqOOxW7HW9NI_PUWwHSZw/s/oneph_sd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663801/0q7p0a99hhS_LZGGl--qMw/s/oneph_sd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "5e9a3c718d464f20b9157a6c2e4d8031:7bf8a7666a2d572fe111b5f829c99266",
@@ -2437,19 +2431,19 @@
       "name": "One PH Stream 2",
       "epg_id": "primary-source:oneph:1",
       "icon": "https://iyadtv.pages.dev/images/one-ph.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795512902/e4ADSyeypsUEA0vmB-83Sw/cv1/001/2/ch00000090990000001198/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApEZXvFy78Lv6DKuHrHIWsTsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795663812/o46tIJ-r9MWNmZfYrpXZfQ/cv1/001/2/ch00000090990000001198/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApEZXvFy78Lv6DKuHrHIWsTsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "One Piece",
       "epg_id": "primary-source:animebypluto:5",
       "icon": "https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509310/eTPKpKQ5CiRh6O2it1xunQ/plusam/plu-62e94ec74823db0007277a8f.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795654696/toS65R9SD9WrE-eLNgmmNQ/plusam/plu-62e94ec74823db0007277a8f.m3u8"
     },
     {
       "name": "One Sports",
       "epg_id": "One Sports",
       "icon": "https://iyadtv.pages.dev/images/one-sports.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795512913/cc8w3_JHTz-9J4R_rPHF0A/s/cg_onesports_hd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663823/ZGu2AcyZDMu6aCNNwiLoiw/s/cg_onesports_hd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "69f5a2318d744c609b125e3a7d8f2046:182523c0bae912e17e916dd4283280e9",
@@ -2461,7 +2455,7 @@
       "name": "One Sports+ HD",
       "epg_id": "primary-source:onesports:1",
       "icon": "https://iyadtv.pages.dev/images/one-sports-plus.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795512922/MLh8SpxVBPqBXiFC_2JvuA/s/cg_onesportsplus_hd1/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663833/fWr3CQLoB8mBx3orHSROHQ/s/cg_onesportsplus_hd1/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "e9c4f7312a854d69b0137f6e8c2a5490:1105fa92173b06885be336b887bc4d26",
@@ -2473,7 +2467,7 @@
       "name": "Oras ng Himala",
       "epg_id": "Oras ng Himala",
       "icon": "https://iyadtv.pages.dev/images/oras_ng_himala_202.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512938/fxccDoiRjTSJEyiNtChXmg/cv2/001/2/ch00000090990000001175/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApQqyrYGvsQGfBZz9lkpM7HsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795663849/KlN57JhFQcjL0oHreVnm1g/cv2/001/2/ch00000090990000001175/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApQqyrYGvsQGfBZz9lkpM7HsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Outdoor Channel",
@@ -2485,13 +2479,13 @@
       "name": "Paramount Movie Channel",
       "epg_id": "Paramount Movie Channel",
       "icon": "https://iyadtv.pages.dev/images/paramount_movie_channel_203.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512949/6orX9c6_ezaoJ83fjXWnyQ/plusam/USAJ26000054W"
+      "url": "https://ovh.rise2the.top/aldous/1795663863/2aB2pPvXj2PYWxbGYzSIIQ/plusam/USAJ26000054W"
     },
     {
       "name": "PBA Rush",
       "epg_id": "PBA Rush",
       "icon": "https://iyadtv.pages.dev/images/pba_rush_205.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512962/myiY9FRrXt23hmR_bWZIkA/s/cg_pbarush_hd1/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663877/lUDtTV8Px4H8ph4T5hRD1Q/s/cg_pbarush_hd1/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "91a5e6327c844f09b2186d3a5e7c2041:984beb3aeff3554c1a5acc04d6044e55",
@@ -2503,7 +2497,7 @@
       "name": "PBB Collab 3.0",
       "epg_id": "PBB Collab 3.0",
       "icon": "https://cdn.iyad.space/pbb3.0.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509491/_3pmun8rzb55YcIA-EQnEg/absp/pinoybigbrothercollabedition30live/manifest.mpd",
+      "url": "https://absp-live.akamaized.net/dash/live/2099522/pinoybigbrothercollabedition30live/manifest.mpd?hdntl=exp=1795501794~acl=%2f*~id=5fe6347a-2c8b-4f3d-beb6-93353d406ffa~data=hdntl~hmac=1dc8835e2e8ce7a13ac660685dfc3d98b0440be1a953fccd47a44a32f3c3eead&app_bundle=&app_name=iwant&app_store_url=&channel_name=PBBCollab30Extra&conparid=09f9149f-acaa-42ca-a18f-5e2735f5de6a&contentType=Live&content_id=09f9149f-acaa-42ca-a18f-5e2735f5de6a&content_livestream=1&content_producer_name=ABS-CBN&coppa=0&did=c08a7506-e3ef-57a6-9538-ed5c78e840d7&dnt=0&dur=50400&gdpr=0&gdpr_consent=0&genre=Reality&ifa_type=PPID&language=fil&lmt=0&network_name=ABS-CBN&pmxd=%7B%7BPOD_MAX_DUR_MILLIS%7D%7D&rating=PG&sid=5fe6347a-2c8b-4f3d-beb6-93353d406ffa&title=PBBCollab30Extra&ua=AmazonAPIGateway_ksrhkmmqge&url=https%3A%2F%2Fwww.iwanttfc.com%2Fcontent%2F09f9149f-acaa-42ca-a18f-5e2735f5de6a&us_privacy=1---&sentinel=awaked",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "1044e7ece2d741bcafe80d8613da104f:f5e17f169ff05ea40c5d3f065f523942",
@@ -2515,7 +2509,7 @@
       "name": "PBB Collab 3.0 Extra",
       "epg_id": "primary-source:pbbcollab30:1",
       "icon": "https://cdn.iyad.space/pbb3.0.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509497/3aXSbWllU35aXtdsRDej8g/absp/pbbcollaballaccesslivestream/manifest.mpd",
+      "url": "https://abslive.akamaized.net/dash/live/2099522/pbbcollaballaccesslivestream/manifest.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "b75e0a8315d0499b834c00a3d5b91935:39876c3c4f32a11dee56078febbb67dd",
@@ -2539,13 +2533,13 @@
       "name": "Peoples Television",
       "epg_id": "Peoples Television",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795513163/RdX05_yAxST0iJBo-Ltolg/cv7/001/2/ch00000090990000001086/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAogpxrMDVv1bZ%2FeMkgHZmwQsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795664070/Wpjw9g5XXGqN6GLjjRHA3A/cv7/001/2/ch00000090990000001086/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAogpxrMDVv1bZ%2FeMkgHZmwQsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Peoples Television Stream 2",
       "epg_id": "primary-source:peoplestelevision:1",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/1/10/People%27s_Televsion_Network_Incorporated_%28PTV%29.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795513175/5RYQylUwKIEgh-Uq9OZ_Rg/s/cg_ptv4_sd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795664081/p0nsd9by8CMN_rKXH2QZWw/s/cg_ptv4_sd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "f8c2a6915d744b309e186a3f7c2d8049:1ad3243b38c60312caa6ba11f150c19c",
@@ -2557,7 +2551,7 @@
       "name": "Peppa Pig",
       "epg_id": "primary-source:nickjr:3",
       "icon": "https://static.wikia.nocookie.net/logopedia/images/c/c5/Peppa_Pig.svg/revision/latest/scale-to-width-down/300?cb=20180319224132",
-      "url": "https://ovh.rise2the.top/aldous/1795512756/cu3zsCE1IZMpuT1NJkhEHQ/plusam/plu-5d14fb6c84dd37df3b4290c5.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795661169/tmVoFduhotKLCV7-TQyQMQ/plusam/plu-5d14fb6c84dd37df3b4290c5.m3u8"
     },
     {
       "name": "PFL MMA",
@@ -2569,13 +2563,13 @@
       "name": "Phoenix Television",
       "epg_id": "primary-source:bs10moreconvergechannels:7",
       "icon": "https://images.seeklogo.com/logo-png/10/2/phoenix-satellite-tv-logo-png_seeklogo-108520.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509768/A2M03VrJlwvYcpbye-S2-Q/cv1/001/2/ch00000090990000001113/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJ%2FmqaM1lrBiCRhhaFxCv%2BsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655144/4tzUitRzcyj3arMkwWpkvA/cv1/001/2/ch00000090990000001113/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJ%2FmqaM1lrBiCRhhaFxCv%2BsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Pilipinas Live",
       "epg_id": "Pilipinas Live",
       "icon": "https://iyadtv.pages.dev/images/pilipinas_live_209.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512997/zxIX6hWYrpqmin-UtLEzVw/s/pl_sdi1/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663910/pd-X4iuGRXCD3Ubtl8sBtw/s/pl_sdi1/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "73f8c2915d644e70b2189a3c6d7f2045:fb199597a99e601c9bc8767a1b20312b",
@@ -2587,7 +2581,7 @@
       "name": "Pilipinas Live 10",
       "epg_id": "primary-source:pilipinaslive:9",
       "icon": "https://iyadtv.pages.dev/images/pilipinas_live_209.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513084/AnHeyY26j-6kA_U5yt7Zyw/s/pl_sdi10/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663991/y-FZdB-K0OXkh64lOmhZoQ/s/pl_sdi10/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91",
@@ -2599,7 +2593,7 @@
       "name": "Pilipinas Live 2",
       "epg_id": "primary-source:pilipinaslive:1",
       "icon": "https://iyadtv.pages.dev/images/pilipinas_live_209.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513010/IhDDLBABX62jrJRGZPvFbg/s/pl_sdi2/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663920/Rr7WZhHlIyp_WR6ikBqq4g/s/pl_sdi2/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "c5a8f3917d424e809b166f3c2a7d9045:6a7f2a17bad0a84674108234403d5fa0",
@@ -2611,7 +2605,7 @@
       "name": "Pilipinas Live 3",
       "epg_id": "primary-source:pilipinaslive:2",
       "icon": "https://iyadtv.pages.dev/images/pilipinas_live_209.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513021/S43eYqvAv-fcaKSIg4dM-w/s/pl_sdi3/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663929/aDvqTS2WhQBg1NOenOiGfQ/s/pl_sdi3/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "c2f8d6917a354e60b2196d3c5a8f9042:2f593fbabad7a9f968c9fec691d59806",
@@ -2623,7 +2617,7 @@
       "name": "Pilipinas Live 4",
       "epg_id": "primary-source:pilipinaslive:3",
       "icon": "https://iyadtv.pages.dev/images/pilipinas_live_209.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513032/g9yd8RVzD7w2mqIbUDmXow/s/pl_sdi4/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663938/grW3iMJlaGd6jUni0rxYEw/s/pl_sdi4/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "e9a4d6316c854b008f175d3a7e2c9048:d7e06c12d35cfd2e13d8f3d3094941a3",
@@ -2635,7 +2629,7 @@
       "name": "Pilipinas Live 5",
       "epg_id": "primary-source:pilipinaslive:4",
       "icon": "https://iyadtv.pages.dev/images/pilipinas_live_209.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513041/aaLvRLC-LZ3RDef-9LEoDw/s/pl_sdi5/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663948/biZ3i11ygDND_iKr0AxtXA/s/pl_sdi5/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "b4f7c8219d624e30a9156c3a5d7f2048:60391d7d3bb726a4a95e66c4c0af219d",
@@ -2647,7 +2641,7 @@
       "name": "Pilipinas Live 6",
       "epg_id": "primary-source:pilipinaslive:5",
       "icon": "https://iyadtv.pages.dev/images/pilipinas_live_209.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513047/uB8RUaytQPiRvpE5BVV-jw/s/pl_sdi6/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663954/vkV-LsId0HL5QI6S70A_Qg/s/pl_sdi6/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "f3d8a6915c724b609e146a7f3c2d8049:20b4724a4d406c3a89c7b0d7084626a0",
@@ -2659,7 +2653,7 @@
       "name": "Pilipinas Live 7",
       "epg_id": "primary-source:pilipinaslive:6",
       "icon": "https://iyadtv.pages.dev/images/pilipinas_live_209.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513056/PSQIgcDoC5OR4j7PyZdUIg/s/pl_sdi7/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663963/k0xqYy4lNpof19LmTrMqpg/s/pl_sdi7/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "5a7e9c316d424b80a2183f5c7d9e2046:746ca1548780fc4d8cc9fc948403a3da",
@@ -2671,7 +2665,7 @@
       "name": "Pilipinas Live 8",
       "epg_id": "primary-source:pilipinaslive:7",
       "icon": "https://iyadtv.pages.dev/images/pilipinas_live_209.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513065/aCG4PdJ0WIivgpb_tmkGDA/s/pl_sdi8/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663973/XixrLOPFOP4J1yJDow2RjA/s/pl_sdi8/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "d6c9a4218e534f099b167c3a5d2e8048:980ec0896ae1ba03f46d85453798b708",
@@ -2683,7 +2677,7 @@
       "name": "Pilipinas Live 9",
       "epg_id": "primary-source:pilipinaslive:8",
       "icon": "https://iyadtv.pages.dev/images/pilipinas_live_209.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513074/XOjqKDgcgMW48HmWlGakCw/s/pl_sdi9/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795663982/jhVlJ6YwAriNKCJWu01mgQ/s/pl_sdi9/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "1c8e5a927d434f60b2196a3c9e5d8041:33af0fd38e463d1c747a2cb0b203c42e",
@@ -2695,13 +2689,13 @@
       "name": "Pinoy Box Office",
       "epg_id": "Pinoy Box Office",
       "icon": "https://iyadtv.pages.dev/images/pinoy_box_office_210.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513092/ea7f3iMkkSHhlZO_S6qRaw/cv5/001/2/ch00000090990000001078/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq9SZLE5HgafIcQ2VcLQB9EsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795664000/SkQk5TXnrOgQvEkDMWP1Lg/cv5/001/2/ch00000090990000001078/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq9SZLE5HgafIcQ2VcLQB9EsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Pinoy Xtreme",
       "epg_id": "Pinoy Xtreme",
       "icon": "https://iyadtv.pages.dev/images/pinoy_xtreme_211.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513104/pOH_drWMbgviZqPyf8RZcA/cv5/001/2/ch00000090990000001098/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApC219uqwL0dVmslrkAjamFsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795664011/WzVghkOHr-Ry_l_hy6Ez7w/cv5/001/2/ch00000090990000001098/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApC219uqwL0dVmslrkAjamFsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Popular Science",
@@ -2713,7 +2707,7 @@
       "name": "Premier Football",
       "epg_id": "primary-source:premiersports:4",
       "icon": "https://static.wikia.nocookie.net/russel/images/4/44/Premier_Football_Logo_November_2020.png/revision/latest/scale-to-width-down/250?cb=20250707152507",
-      "url": "https://ovh.rise2the.top/aldous/1795513151/bLFnxKKBN9qrYVU8OG5OIg/cv6/001/2/ch00000090990000001127/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqqxWqB5I3LphK7WUAFquWrytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795664059/uBSCflMWSkEPtkmSifpO9A/cv6/001/2/ch00000090990000001127/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqqxWqB5I3LphK7WUAFquWrytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Premier Sports",
@@ -2731,7 +2725,7 @@
       "name": "Premier Sports 2 Stream 2",
       "epg_id": "primary-source:premiersports:3",
       "icon": "https://cdn.iyad.space/images/premier-sports2.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513141/Qxn7vXXySsmeS4oQxNvrKg/s/premiersports2hd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795664049/7YD7-OipdxmCtb7Vv5Ffgw/s/premiersports2hd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "72e4b9c13f864a52a9178d6c0e5b2394:9390c1edae5ecf680c168daf44bf6a03",
@@ -2743,7 +2737,7 @@
       "name": "Premier Sports Stream 2",
       "epg_id": "primary-source:premiersports:1",
       "icon": "https://cdn.iyad.space/images/premier-sports.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513124/FJdwYNtb_O5j20L7EdUdVg/s/cg_ps_hd1/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795664031/j8d4p6U4X1wLhzXvzojudw/s/cg_ps_hd1/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "91e4c6725a834d198f602c7b9e3a5148:4185d260443198690be03e294fdc1240",
@@ -2755,19 +2749,19 @@
       "name": "Radio Maria",
       "epg_id": "primary-source:tvmaria:2",
       "icon": "https://iyadtv.pages.dev/images/tv_maria_266.png",
-      "url": "https://ovh.rise2the.top/aldous/1795514006/b3vKAPxi_Yguly-QQaXEYg/cv3/001/2/ch00000090990000001327/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoMJQgjeNgI0lKcIWq2Qc672%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795668323/hSLy7x-Hyf-_qasJZ_399Q/cv3/001/2/ch00000090990000001327/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoMJQgjeNgI0lKcIWq2Qc672%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Radyo Bandido",
       "epg_id": "Radyo Bandido",
       "icon": "https://iyadtv.pages.dev/images/radyo_bandido_215.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513195/cO07iQUUDoTheAJDfkJnmQ/cv10/001/2/ch00000090990000001338/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAquM2DhqYshrFbBoS4HC4mc2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795664102/-nnqZXAjDXou6YQ-9sCKFw/cv10/001/2/ch00000090990000001338/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAquM2DhqYshrFbBoS4HC4mc2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Rai Italia",
       "epg_id": "primary-source:bs10moreconvergechannels:8",
       "icon": "https://i.imgur.com/omP283K.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509782/0U_C9H3AvStlgYrrOfg8zA/cv6/001/2/ch00000090990000001099/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq%2FDUoNrO3rJTMQSZlDUFIEsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655154/dwC8VvWELa-JhJ4v7oZXkg/cv6/001/2/ch00000090990000001099/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq%2FDUoNrO3rJTMQSZlDUFIEsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Rainbow Ruby",
@@ -2779,7 +2773,7 @@
       "name": "Rally TV",
       "epg_id": "primary-source:skysportsf1:2",
       "icon": "https://res.cloudinary.com/hhhkasdw4/image/upload/f_svg/streaming-platform/smarttv/rallytv/logos/logo-light.svg",
-      "url": "https://rise2the.top/aldous/1795513352/tHQYU16B05O64KMyUfF19g/streams/rallytv.php?iyadtv=1.m3u8"
+      "url": "https://rise2the.top/aldous/1795665010/Sxl2s5Srk365Xo27DRbPwg/streams/rallytv.php?iyadtv=1.m3u8"
     },
     {
       "name": "Real Disaster Channel",
@@ -2809,13 +2803,13 @@
       "name": "RJ Digitv",
       "epg_id": "RJ Digitv",
       "icon": "https://iyadtv.pages.dev/images/rj_digitv_222.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513238/h8YnLnT-mFNtegbKGCPNxg/cv8/001/2/ch00000090990000001159/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAreKmZs4H3Zuj6jrvRtgmFqsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795664900/TheJ3g3staOe4iHqq_B-RA/cv8/001/2/ch00000090990000001159/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAreKmZs4H3Zuj6jrvRtgmFqsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Rock Action",
       "epg_id": "Rock Action",
       "icon": "https://iyadtv.pages.dev/images/rock-action.avif",
-      "url": "https://ovh.rise2the.top/aldous/1795513250/AvsEp5ooV_5pD0dJJjeAWg/s/dr_rockextreme/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795664911/pAgPmpPPsNEiQOJIbrYQkA/s/dr_rockextreme/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "d9a4f5218c374b069e156f2d7a3c8049:72aa902f471adf15bef2710b6b689ed0",
@@ -2827,7 +2821,7 @@
       "name": "Rock Entertainment",
       "epg_id": "primary-source:rockaction:1",
       "icon": "https://iyadtv.pages.dev/images/rock-entertainment.avif",
-      "url": "https://ovh.rise2the.top/aldous/1795513260/QRN87WHz8MKatALJBaqgAg/s/dr_rockentertainment/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795664921/R88pgyRLJiG7ocgasaMwBQ/s/dr_rockentertainment/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "86e5c7921a434f60b9287d3c9e5a6041:fab817af24eab2a73ae89145797cf556",
@@ -2839,7 +2833,7 @@
       "name": "Rock MNL",
       "epg_id": "Rock MNL",
       "icon": "https://iyadtv.pages.dev/images/rock_of_manila_tv_223.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513270/HyF17XbgqhpuDE8SGM_wkg/cv3/001/2/ch00000090990000001177/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq3IoTFSryS9b7zI0P4QXhKsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795664930/Uke88wyajKgShNHh0qmulQ/cv3/001/2/ch00000090990000001177/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq3IoTFSryS9b7zI0P4QXhKsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Romedy Now",
@@ -2857,7 +2851,7 @@
       "name": "RPTV",
       "epg_id": "RPTV",
       "icon": "https://iyadtv.pages.dev/images/rptv_226.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513282/3k6V4-kOdYrYy1v-gRlpCw/s/cnn_rptv_prod_hd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795664941/_DjGgohDA7lFqmoisA5Ffg/s/cnn_rptv_prod_hd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "b5d7a6219c434e188f026a3d7c5e9148:28e1244057ff6feae879c1e985ded0fb",
@@ -2869,19 +2863,19 @@
       "name": "RPTV Stream 2",
       "epg_id": "primary-source:rptv:1",
       "icon": "https://iyadtv.pages.dev/images/rptv_226.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513291/R40QMn1SAKf5CAuUxaUdoA/cv8/001/2/ch00000090990000001094/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAplioRPAB6XCf%2FrlkX7xxQZsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795664950/RucpTOV1QbC1fUurFIUzaQ/cv8/001/2/ch00000090990000001094/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAplioRPAB6XCf%2FrlkX7xxQZsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Sailor Moon",
       "epg_id": "primary-source:animebypluto:6",
       "icon": "https://images.pluto.tv/channels/637e55347427a40007fac703/colorLogoPNG.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509334/EIqn7sTrFvkIkeS0L5WlBA/plusam/plu-637e55347427a40007fac703.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795654714/iK0PqWm0LjlYPbcspuZp8g/plusam/plu-637e55347427a40007fac703.m3u8"
     },
     {
       "name": "Saudi TV",
       "epg_id": "primary-source:bs10moreconvergechannels:9",
       "icon": "https://cdn.iyad.space/sauditv.png",
-      "url": "https://ovh.rise2the.top/aldous/1795509793/6iHVZXAoeGFAsf3ZvgBx0Q/cv3/001/2/ch00000090990000001176/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx%2BXO6kYP1duDF0CR%2BT7zbsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655163/-Isbs3VpxX4jS8WqtvM7lg/cv3/001/2/ch00000090990000001176/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqx%2BXO6kYP1duDF0CR%2BT7zbsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "SBS K-Drama",
@@ -2935,13 +2929,13 @@
       "name": "Sky Sports F1",
       "epg_id": "Sky Sports F1",
       "icon": "https://cdn.iyad.space/images/sp-f1.png",
-      "url": "https://rise2the.top/aldous/1795513339/v_boQV0OKY8xAIPVPy3tUw/hls/skyf1/stream.m3u8"
+      "url": "https://rise2the.top/aldous/1795664996/7stQxvz0Wa5AcONrOQUJGw/hls/skyf1/stream.m3u8"
     },
     {
       "name": "Smithsonian Channel",
       "epg_id": "Smithsonian Channel",
       "icon": "https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513362/iMzo4WHs77o4UgYgSWVMxA/plusam/plu-5f21ea08007a49000762d349.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795665017/9vW9jL43hUTok77sxneJUg/plusam/plu-5f21ea08007a49000762d349.m3u8"
     },
     {
       "name": "SMNI News Channel",
@@ -2953,19 +2947,19 @@
       "name": "SMNI News Channel Stream 2",
       "epg_id": "primary-source:smninewschannel:1",
       "icon": "https://iyadtv.pages.dev/images/smni_news_channel_233.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513402/qSNdORQTduOlQExAFflEGw/cv9/001/2/ch00000090990000001155/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAop4OXrlwmfDc6Bu48vA%2B4AsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795665044/vkZy_DEU2d3eHIZAOfIIGA/cv9/001/2/ch00000090990000001155/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAop4OXrlwmfDc6Bu48vA%2B4AsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "SOLARFLIX",
       "epg_id": "SOLARFLIX",
       "icon": "https://iyadtv.pages.dev/images/solarflix_234.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513414/mhd3nTxfapNL6PIRejdvEQ/cv1/001/2/ch00000090990000001243/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApbUxUxZzyq5Czg7gUnQAcvsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795665056/ec7K8zCn5uSl3JXPA7aPOg/cv1/001/2/ch00000090990000001243/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApbUxUxZzyq5Czg7gUnQAcvsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "SOLARSPORTS",
       "epg_id": "SOLARSPORTS",
       "icon": "https://iyadtv.pages.dev/images/solarsports_235.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513426/QOn7hF9FlkoLtSKFzL_1kg/cv3/001/2/ch00000090990000001081/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApTfGIKxFqRM2tu30PzY%2FKksyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795665067/2gCDVMFff_uMHQZ5sTjejg/cv3/001/2/ch00000090990000001081/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApTfGIKxFqRM2tu30PzY%2FKksyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Sony Movies",
@@ -2989,31 +2983,31 @@
       "name": "Sony Pix",
       "epg_id": "Sony Pix",
       "icon": "https://cdn.iyad.space/sony-pix.webp",
-      "url": "https://ovh.rise2the.top/aldous/1795513444/92sywTJeONfVzrO7ro7xwA/hls/sonypix/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795665085/XvaNXq_ji6p6tQnQyF1cUQ/hls/sonypix/stream.m3u8"
     },
     {
       "name": "South Park",
       "epg_id": "primary-source:comedycentral:1",
       "icon": "https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png",
-      "url": "https://ovh.rise2the.top/aldous/1795510256/L8I-n1D7HTl7jmVCbp49Pg/plusam/plu-62bdb1c5e25122000798ac79.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795655605/O9Po8omB7va1BZ4mPWqfGA/plusam/plu-62bdb1c5e25122000798ac79.m3u8"
     },
     {
       "name": "Spongebob Squarepants",
       "epg_id": "primary-source:nickelodeon:4",
       "icon": "https://cdn.iyad.space/images/spongebob.png",
-      "url": "https://ovh.rise2the.top/aldous/1795512861/G4ouDRDMr5SXFr6fdsrwFA/plusam/plu-63f87d057533d80008ab9549.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795661247/z332FEAA0tbiSK_jbiLV8Q/plusam/plu-63f87d057533d80008ab9549.m3u8"
     },
     {
       "name": "Spotlight TV",
       "epg_id": "Spotlight TV",
       "icon": "https://cdn.iyad.space/spotlight.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513467/2iBdGPUN-2pB-WEMg2Fp6w/cv4/001/2/ch00000090990000001134/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5iGQ4tDytzSdpM9ehJW6pytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795665120/GRdPYbfLMCLBF3vzyUgSAw/cv4/001/2/ch00000090990000001134/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bo5iGQ4tDytzSdpM9ehJW6pytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "SPOTV",
       "epg_id": "SPOTV",
       "icon": "https://iyadtv.pages.dev/images/spotv_238.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513477/QrZDbGO23tEql9N-8YC0yw/s/cg_spotvhd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795665130/Wqm2Uk4AK1E94J1o54zs2w/s/cg_spotvhd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "c5e8a3927d414b609f286a3c5e1d7049:7c5edbd3d090bb6de9a9c3685defa959",
@@ -3025,7 +3019,7 @@
       "name": "SPOTV2",
       "epg_id": "primary-source:spotv:1",
       "icon": "https://cdn.iyad.space/spotv2.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513487/ci2vFQoakP6xrK7snyoNUA/s/dr_spotv2hd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795665139/bu9-JWG2XE995_v_VH9jCA/s/dr_spotv2hd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "f28d730090f64e229fb255b2afa6e36e:53d432c60f419541c7319dc1b6508e2c",
@@ -3037,13 +3031,13 @@
       "name": "STAR Movies HD",
       "epg_id": "STAR Movies HD",
       "icon": "https://iyadtv.pages.dev/images/star-movies.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513496/eRMDICJUF6fNYVGShEG6Og/hls/starmovies/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795665148/aZH6hgnXKWUfMNPA9ntCjQ/hls/starmovies/stream.m3u8"
     },
     {
       "name": "STAR Movies Select HD",
       "epg_id": "STAR Movies Select HD",
       "icon": "https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513503/fre8SQShieR2-4qg-aNduw/hls/starmovies-s/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795665156/oReNnSvLjZPm281DTHa_FA/hls/starmovies-s/stream.m3u8"
     },
     {
       "name": "Star TV Philippines",
@@ -3061,7 +3055,7 @@
       "name": "Studio Universal",
       "epg_id": "Studio Universal",
       "icon": "https://cdn.iyad.space/su.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513564/nvi9PcwkMUslMgaM15rn9w/s/cg_studio_universal_hd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795665192/406fvLUggJVtda1MROHx0w/s/cg_studio_universal_hd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "f8391e9130634854b4614f02ec028ea7:9b9640f873cf906b91dd03c02612d5ce",
@@ -3073,13 +3067,13 @@
       "name": "SyFy 2",
       "epg_id": "primary-source:syfy:1",
       "icon": "https://iyadtv.pages.dev/images/syfy.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513556/gbbrSufw3L26_WQ2mOt2eQ/move1/USA_SYFY/index.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795665184/ipzI3pYI98HFzBuepcnk9w/move1/USA_SYFY/index.m3u8"
     },
     {
       "name": "Tagalized Movie Channel",
       "epg_id": "Tagalized Movie Channel",
       "icon": "https://iyadtv.pages.dev/images/tagalized_movie_channel_248.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513574/cLls7j1OHiy06y6P6TZfBQ/cv1/001/2/ch00000090990000001080/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHx%2Fyl86rMkFVqtHp1NtQIsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795665202/qzbm9gPvRyG21WPuEzvSUg/cv1/001/2/ch00000090990000001080/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHx%2Fyl86rMkFVqtHp1NtQIsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Taiwan Plus",
@@ -3091,19 +3085,19 @@
       "name": "Tap Action Flix",
       "epg_id": "Tap Action Flix",
       "icon": "https://cdn.iyad.space/images/tap-action.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513597/JxPykEkTHXW2gWCmL3pOrA/taf/001/2/ch00000090990000001305/manifest.mpd"
+      "url": "https://ovh.rise2the.top/aldous/1795665221/yx6OmnrhVtg8TfUQGAVEjA/taf/001/2/ch00000090990000001305/manifest.mpd"
     },
     {
       "name": "TAP Edge",
       "epg_id": "TAP Edge",
       "icon": "https://iyadtv.pages.dev/images/tap_edge_249.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513613/W9jGbFZxiQLa6j5Niet67Q/cv10/001/2/ch00000090990000001150/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq%2B2uVbDOBwGF5t4YHKR5dbsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795667956/7eZ9RnRqvtQnWHWdFWOUlQ/cv10/001/2/ch00000090990000001150/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq%2B2uVbDOBwGF5t4YHKR5dbsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "TAP Edge Stream 2",
       "epg_id": "primary-source:tapedge:1",
       "icon": "https://iyadtv.pages.dev/images/tap_edge_249.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513626/AZLgRDveeexKHVGyxAMmfA/s/dr_tapedge/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795667968/jCFybWfBW0cp5m3L5nWA0w/s/dr_tapedge/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35",
@@ -3115,7 +3109,7 @@
       "name": "Tap Movies",
       "epg_id": "Tap Movies",
       "icon": "https://iyadtv.pages.dev/images/tap_movies_251.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513635/1-B1Px7wcIgrxbBAtSqGaQ/s/cg_tapmovies_hd1/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795667977/8skelMhFItji4h5q_TFTIA/s/cg_tapmovies_hd1/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "65d8c4912f734a90b8163e7c5d9a2041:fd495b984013da4e26f83b1a921c0a15",
@@ -3127,7 +3121,7 @@
       "name": "TAP Sports",
       "epg_id": "TAP Sports",
       "icon": "https://iyadtv.pages.dev/images/tap_sports_250.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513652/fpiIdV_EQ4pxUf4-K8g92A/s/dr_tapsports/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795667993/LyB29qLTHKZG_fJ6lMr04Q/s/dr_tapsports/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "a6d4f8912c734b608e159f3a7d5c2046:ec647e6c500235352a8df03c518e9b23",
@@ -3139,19 +3133,19 @@
       "name": "TAP Sports Stream 2",
       "epg_id": "primary-source:tapsports:1",
       "icon": "https://iyadtv.pages.dev/images/tap_sports_250.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513661/bjQGClZwAngqThDms17fHw/cv3/001/2/ch00000090990000001151/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvuCQC%2BfGfSFGYE2TZKWpbsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795668002/_VVIRUYqc6wqWBMH_X8AZw/cv3/001/2/ch00000090990000001151/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvuCQC%2BfGfSFGYE2TZKWpbsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "TAP TV",
       "epg_id": "TAP TV",
       "icon": "https://iyadtv.pages.dev/images/tap_tv_252.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513673/p7KMRXEWfRx4KYHUze6p8g/cv7/001/2/ch00000090990000001149/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAroVo9XMLpd0k2y9rVerSvmsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795668013/o05ip75ZzAOjWkIq-vF7Kg/cv7/001/2/ch00000090990000001149/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAroVo9XMLpd0k2y9rVerSvmsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "TapSILOG",
       "epg_id": "TapSILOG",
       "icon": "https://iyadtv.pages.dev/images/tapsilog.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513645/6f-lwmeMyLVUJ_tDD2QI4Q/hls/tapsi/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795667987/r9bUlDgpeSBauzgFcFc5lA/hls/tapsi/stream.m3u8"
     },
     {
       "name": "Tastemade",
@@ -3169,7 +3163,7 @@
       "name": "TBN Asia",
       "epg_id": "TBN Asia",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROUq3rHesTr_yxL-GKma2lARcMxdnO30hTgwXs6YrkGQ&s",
-      "url": "https://ovh.rise2the.top/aldous/1795513705/mgVDvOelcpnR_P3BkC2lyA/cv9/001/2/ch00000090990000001147/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr1gDY5x7IZ%2FDqQTvxeS3W1syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795668047/_N0Ew_K2LLHiZ8scGfzH9g/cv9/001/2/ch00000090990000001147/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr1gDY5x7IZ%2FDqQTvxeS3W1syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "TBS",
@@ -3211,7 +3205,7 @@
       "name": "TFC Asia Stream 2",
       "epg_id": "primary-source:tfcasia:1",
       "icon": "https://iyadtv.pages.dev/images/tfc_asia_254.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513727/HCutJqfeo0O_iUslG0U09w/scalecdn/546785.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795668070/wdzE1z9unE1WpGqn6RG7cQ/scalecdn/546785.m3u8"
     },
     {
       "name": "The Manila Times",
@@ -3223,7 +3217,7 @@
       "name": "Thrill",
       "epg_id": "Thrill",
       "icon": "https://iyadtv.pages.dev/images/thrill_257.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513777/OveC7rBLiEeQ2QtktDr6pw/s/cg_thrill_sd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795668116/pr8pdbZ-NVvd6V01r8jccg/s/cg_thrill_sd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "b8c3d5906e424f17a9215d8c7a2e6043:02ce48f1b48f7cbdc3e2703a56e8fa31",
@@ -3235,7 +3229,7 @@
       "name": "Thrill Stream 2",
       "epg_id": "primary-source:thrill:1",
       "icon": "https://iyadtv.pages.dev/images/thrill_257.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513787/KEhFB5vKg80R8b2VhYsCMg/cv8/001/2/ch00000090990000001253/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq7M3KTlp1dzcZcVVxlNmQdsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795668125/3f440U6MsYlSgtf3ctPM6Q/cv8/001/2/ch00000090990000001253/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq7M3KTlp1dzcZcVVxlNmQdsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Thriller TV",
@@ -3349,7 +3343,7 @@
       "name": "Torque",
       "epg_id": "primary-source:historyhd:5",
       "icon": "https://iyadtv.pages.dev/images/history_hd_132.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511247/xuBTEKmS01yHtphG2RmmZA/plex-epg/library/parts/5e20b730f2f8d5003d739db7-63c1e64df0f132afc3afbab4/?X-Plex-Token=exG2wvjzZcoAdbf7yL29"
+      "url": "https://ovh.rise2the.top/aldous/1795659384/Re_WYIPfktEIiVj0MTtk8g/plex-epg/library/parts/5e20b730f2f8d5003d739db7-63c1e64df0f132afc3afbab4/?X-Plex-Token=exG2wvjzZcoAdbf7yL29"
     },
     {
       "name": "Trace Urban",
@@ -3361,7 +3355,7 @@
       "name": "Travel Channel",
       "epg_id": "Travel Channel",
       "icon": "https://iyadtv.pages.dev/images/travel_channel_263.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513911/AzVI3A-K0FxffveVQUJYgQ/s/travel_channel_sd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795668261/7M-2LRRha-F7swN8vuh4Xg/s/travel_channel_sd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "18c6f9235b744d81a0397e2c9f6a5048:7974c1376447c563f5fdb41be0104ddf",
@@ -3403,7 +3397,7 @@
       "name": "TV Maria",
       "epg_id": "TV Maria",
       "icon": "https://iyadtv.pages.dev/images/tv_maria_266.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513960/z8VvjcZllO00pkuOeUGIMQ/s/tvmaria_prd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795668302/inARhUKxqJDbBFviSiFSiw/s/tvmaria_prd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "6a2d9f815c744e30b9168f3a7d2c5049:fb07ec8ca16ffdb8b8a045fa4c8aac74",
@@ -3415,13 +3409,13 @@
       "name": "TV Maria Stream 2",
       "epg_id": "primary-source:tvmaria:1",
       "icon": "https://iyadtv.pages.dev/images/tv_maria_266.png",
-      "url": "https://ovh.rise2the.top/aldous/1795513971/n7AA8Tvg9dVzh14uAD7q4w/cv9/001/2/ch00000090990000001160/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqJiJmfV%2B93mjmGGmqynSohsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795668311/MrmSDe0JC2MR5bEY7Wwpqg/cv9/001/2/ch00000090990000001160/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqJiJmfV%2B93mjmGGmqynSohsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "TV5",
       "epg_id": "TV5",
       "icon": "https://iyadtv.pages.dev/images/tv5.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795508818/4uawpJGOcszBNadoSjy0Sg/s/tv5_hd/default1/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795654286/DEBGq4x9JNA9bh6sPL0Ysg/s/tv5_hd/default1/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "9c3e7a516d824f04a9175b8c2e3d7040:524a9c2cec98272f71c347345a3fd12e",
@@ -3433,7 +3427,7 @@
       "name": "TV5 Monde",
       "epg_id": "TV5 Monde",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/960px-Logo_TV5_Monde_-_2021.svg.png",
-      "url": "https://ovh.rise2the.top/aldous/1795514040/NLegy7IlLCaBnkL5uf2Itg/s/dr_tv5_monde/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795669550/xdPTpt7KNEhUqSSh96rRHw/s/dr_tv5_monde/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "e6b4c8217a954d309f165c8e2a3d7049:1acbc3a347d31fa2236f180574342e71",
@@ -3445,25 +3439,25 @@
       "name": "TV5 Monde Stream 2",
       "epg_id": "primary-source:tv5monde:1",
       "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Logo_TV5_Monde_-_2021.svg/960px-Logo_TV5_Monde_-_2021.svg.png",
-      "url": "https://ovh.rise2the.top/aldous/1795514049/i4JyU3TDfr1ZyQMlWqXHsg/cv4/001/2/ch00000090990000001156/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArZbWy4P3NKKVNXe3wACXZmsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795669560/qldH6nlHFU0-szXfBZE00g/cv4/001/2/ch00000090990000001156/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArZbWy4P3NKKVNXe3wACXZmsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "TV5 Stream 2",
       "epg_id": "primary-source:tv5:1",
       "icon": "https://iyadtv.pages.dev/images/tv5.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795508827/wcqJeFJWMoh_PfxrCNuEEg/cv4/001/2/ch00000090990000001088/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795654296/ape-UYHkyhVrnSVjG7eS7Q/cv4/001/2/ch00000090990000001088/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "TVE",
       "epg_id": "primary-source:bs10moreconvergechannels:10",
       "icon": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/TVE_Internacional_2026.svg/330px-TVE_Internacional_2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
-      "url": "https://ovh.rise2the.top/aldous/1795509804/V1YNIrdeN--MHJI5-MNDng/cv6/001/2/ch00000090990000001112/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq0ljLQuLaqTKdgvofK6hc4syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655174/RH2ooJ0TJm7FFt5n8L2ccA/cv6/001/2/ch00000090990000001112/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq0ljLQuLaqTKdgvofK6hc4syK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "TVN",
       "epg_id": "TVN",
       "icon": "https://s3.amazonaws.com/ivacy-website-images/wp-content/uploads/2020/01/19140041/1200px-Logo_tvN.svg_-1024x406.png",
-      "url": "https://ovh.rise2the.top/aldous/1795514032/OtFEQFiai9qmpQjXZF-Sag/s/cg_tvnpre/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795669540/3VeKCwJTToF2PYwD530xVw/s/cg_tvnpre/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "3a7f9c615d824e40a9168c5b2d7f3049:2bc91eced1660ecf88299a42e4c0cd91",
@@ -3475,7 +3469,7 @@
       "name": "TVN Movies",
       "epg_id": "TVN Movies",
       "icon": "https://iyadtv.pages.dev/images/tvn_movies_267.png",
-      "url": "https://ovh.rise2the.top/aldous/1795514018/rUMXMsuCQ6lGNp7mucOQKg/s/cg_tvnmovie/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795668334/HyOaSlEHiswc2d3eKmLEAQ/s/cg_tvnmovie/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "e6c9a4215d734f608b197c3e2a5d9048:ec695ab203cb2258db220b3863e2a7ee",
@@ -3487,7 +3481,7 @@
       "name": "UAAP Varsity",
       "epg_id": "UAAP Varsity",
       "icon": "https://iyadtv.pages.dev/images/uaap_varsity_270.png",
-      "url": "https://ovh.rise2the.top/aldous/1795514061/FwcUvbzytcc4jr3yJxCzRQ/s/cg_uaap_cplay_sd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795669575/74-YIP4bqHGpY-XX5bjA3g/s/cg_uaap_cplay_sd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "b6c9f4218d734a059e165c3d7a2f8049:948aa5c0d0c15c70efb9257f5b75c379",
@@ -3511,19 +3505,19 @@
       "name": "UFC Pass",
       "epg_id": "primary-source:ufc:2",
       "icon": "https://iyadtv.pages.dev/images/ufc_tv_271.png",
-      "url": "https://ovh.rise2the.top/aldous/1795514083/9FbmYZgDlwuSf37J2VT-XQ/hls/ufcpass/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795669596/Yf9O89qba__fRlk2iiGTVg/hls/ufcpass/stream.m3u8"
     },
     {
       "name": "UFC PVV",
       "epg_id": "primary-source:ufc:1",
       "icon": "https://iyadtv.pages.dev/images/ufc_tv_271.png",
-      "url": "https://ovh.rise2the.top/aldous/1795514076/uCu53dHaW_xyKSIIbhP-iA/hls/ufc/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795669589/HqxpXBQQMd7ViHqCHouEMQ/hls/ufc/stream.m3u8"
     },
     {
       "name": "UNTV",
       "epg_id": "UNTV",
       "icon": "https://iyadtv.pages.dev/images/untv_news_and_rescue_274.png",
-      "url": "https://ovh.rise2the.top/aldous/1795514090/U5ZeA6hhDVdkpVWOyUsKLA/cv1/001/2/ch00000090990000001091/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp8EKxpteUJNLDuI18c3YYNsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795669603/-K1OXXtdsNvG0k3LI3OdwQ/cv1/001/2/ch00000090990000001091/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAp8EKxpteUJNLDuI18c3YYNsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "UnXplained Zone",
@@ -3586,16 +3580,22 @@
       "url": "https://aka-live1050.delivery.roku.com/395d8b66-d246-4bf2-87b6-89a5dc1084ed/t2-origin/out/v1/live_1080.m3u8"
     },
     {
+      "name": "visit gamegg.lol for more nba games info",
+      "epg_id": "primary-source:nbatv:1",
+      "icon": "https://cdn.iyad.space/nba.png",
+      "url": "https://rise2the.top/aldous/1795660993/vNAWhf5y7QXaQJBSN0_AQg/hls/nba1/stream.m3u8"
+    },
+    {
       "name": "VIVA Cinema",
       "epg_id": "VIVA Cinema",
       "icon": "https://iyadtv.pages.dev/images/viva.svg",
-      "url": "https://ovh.rise2the.top/aldous/1795514184/IZJxbfdPSNDrLe0QseGGDA/cv3/001/2/ch00000090990000001079/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoglCgy7TAZamPXsCV8PgebsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795669694/LHOBfbzN6LrbeMh24pCsxg/cv3/001/2/ch00000090990000001079/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoglCgy7TAZamPXsCV8PgebsyK4TH4mOENKJ45mwOyS0g%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "Warner TV",
       "epg_id": "Warner TV",
       "icon": "https://iyadtv.pages.dev/images/warner_tv__279.png",
-      "url": "https://ovh.rise2the.top/aldous/1795514196/0oh3JtlqB0h5Ge_ksEZnHA/s/cg_warnerhd/default/index.mpd",
+      "url": "https://ovh.rise2the.top/aldous/1795669704/PGjB5Z6UHwcmBaMoedFp5w/s/cg_warnerhd/default/index.mpd",
       "source_format": "dash",
       "drm_type": "clearkey",
       "drm_key": "c4a8d5319e624f078b156d3c7a5e2049:cee9422b4a40d85589f36f1d76fb144f",
@@ -3649,7 +3649,7 @@
       "name": "WWE",
       "epg_id": "WWE",
       "icon": "https://iyadtv.pages.dev/images/wwe_261.png",
-      "url": "https://ovh.rise2the.top/aldous/1795514271/JJ_J8_IQR2JBD4nLUx8hMQ/hls/wwe/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795669776/lq14huPswlyV3_ijOaYY8g/hls/wwe/stream.m3u8"
     },
     {
       "name": "XFC TV",
@@ -3661,7 +3661,7 @@
       "name": "Xingkong",
       "epg_id": "primary-source:bs10moreconvergechannels:13",
       "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHzEmFZaNE5sKGd0-VsgK4zyJms0kvnA_ZIQ&s",
-      "url": "https://ovh.rise2the.top/aldous/1795509833/ra9K150_8i_Qpl2grlnwpQ/cv2/001/2/ch00000090990000001337/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApMjcsBWP9w%2FYVgaofn83Oe2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
+      "url": "https://ovh.rise2the.top/aldous/1795655201/nXJkGcJuj0OLG_ognhZF2w/cv2/001/2/ch00000090990000001337/index.m3u8?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApMjcsBWP9w%2FYVgaofn83Oe2%2FjHNuou2Jtxin49X3LQKw%3D%3D&virtualDomain=001.live_hls.zte.com&JITPDRMType=NO"
     },
     {
       "name": "XITE 80s Flashback",
@@ -3715,13 +3715,13 @@
       "name": "Xtreme Outdoor",
       "epg_id": "primary-source:historyhd:6",
       "icon": "https://iyadtv.pages.dev/images/xtreme_outdoor_283.png",
-      "url": "https://ovh.rise2the.top/aldous/1795511262/W7PQtUSkLtCWj7jzbONo6g/plusam/plu-6000a6f4c3f8550008fc9b91.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795659398/IeMO1RQ3tcaxIDi41ZjCaQ/plusam/plu-6000a6f4c3f8550008fc9b91.m3u8"
     },
     {
       "name": "Yes Network",
       "epg_id": "Yes Network",
       "icon": "https://everpass.com/wp-content/uploads/2026/03/Yes_Logo.png",
-      "url": "https://ovh.rise2the.top/aldous/1795514356/WxsV2y7M6Y_zCZ_Lclr5kw/hls/yes/stream.m3u8"
+      "url": "https://ovh.rise2the.top/aldous/1795669855/VafcdQzHL2cIF9s_yZ_7BQ/hls/yes/stream.m3u8"
     },
     {
       "name": "YTV",

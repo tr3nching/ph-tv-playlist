@@ -1,12 +1,37 @@
 {
-  "updatedAt": "2026-11-24T03:59:28.012Z",
-  "channelCount": 480,
+  "updatedAt": "2026-11-25T23:11:02.342Z",
+  "channelCount": 479,
   "catalogCount": 244,
   "catalogSource": "live",
-  "primarySourceCount": 480,
-  "alternateSourceCount": 236,
-  "retainedSourceCount": 0,
-  "clearKeyChannelCount": 143,
-  "failedChannels": [],
+  "primarySourceCount": 479,
+  "alternateSourceCount": 235,
+  "retainedSourceCount": 4,
+  "clearKeyChannelCount": 144,
+  "failedChannels": [
+    {
+      "id": "FightBox",
+      "name": "FightBox",
+      "parentName": "FightBox",
+      "serverIndex": 0
+    },
+    {
+      "id": "FITE 24/7",
+      "name": "FITE 24/7",
+      "parentName": "FITE 24/7",
+      "serverIndex": 0
+    },
+    {
+      "id": "Mr Beast",
+      "name": "Mr Beast",
+      "parentName": "Mr Beast",
+      "serverIndex": 0
+    },
+    {
+      "id": "Media Pilipinas TV",
+      "name": "Media Pilipinas TV",
+      "parentName": "Media Pilipinas TV",
+      "serverIndex": 0
+    }
+  ],
   "note": "Stream URLs were resolved, not playback-tested. The separate DRM playlist preserves source-supplied ClearKey settings and requires a compatible player."
 }

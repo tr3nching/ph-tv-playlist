@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T02:26:41.978Z",
+  "updatedAt": "2026-11-25T18:51:07.390Z",
   "catalogSource": "live",
   "entries": [
     {
@@ -1356,7 +1356,7 @@
       "id": "primary-source:nbatv:1",
       "parentName": "NBA TV",
       "serverIndex": 1,
-      "name": "8:00am Hornets vs Grizzlies",
+      "name": "visit gamegg.lol for more nba games info",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1365,7 +1365,7 @@
       "id": "primary-source:nbatv:2",
       "parentName": "NBA TV",
       "serverIndex": 2,
-      "name": "8:00am 76ers vs Blazers",
+      "name": "NBA 2",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1374,7 +1374,7 @@
       "id": "primary-source:nbatv:3",
       "parentName": "NBA TV",
       "serverIndex": 3,
-      "name": "8:30am Pacers vs Thunder",
+      "name": "NBA 3",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1383,7 +1383,7 @@
       "id": "primary-source:nbatv:4",
       "parentName": "NBA TV",
       "serverIndex": 4,
-      "name": "8:30am Raptors vs Bucks",
+      "name": "NBA 4",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1392,7 +1392,7 @@
       "id": "primary-source:nbatv:5",
       "parentName": "NBA TV",
       "serverIndex": 5,
-      "name": "8:30am Timberwolves vs Nets",
+      "name": "NBA 5",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1401,7 +1401,7 @@
       "id": "primary-source:nbatv:6",
       "parentName": "NBA TV",
       "serverIndex": 6,
-      "name": "9:00am Bulls vs Cavaliers",
+      "name": "NBA 6",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1410,7 +1410,7 @@
       "id": "primary-source:nbatv:7",
       "parentName": "NBA TV",
       "serverIndex": 7,
-      "name": "9:00am Pelicans vs Suns",
+      "name": "NBA 7",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1419,7 +1419,7 @@
       "id": "primary-source:nbatv:8",
       "parentName": "NBA TV",
       "serverIndex": 8,
-      "name": "9:30am Rockets vs Clippers",
+      "name": "NBA 8",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
@@ -1428,16 +1428,7 @@
       "id": "primary-source:nbatv:9",
       "parentName": "NBA TV",
       "serverIndex": 9,
-      "name": "11:00am Lakers vs Jazz",
-      "category": "Sports",
-      "categoryBasis": "configured broad channel type; see category review",
-      "enabled": true
-    },
-    {
-      "id": "primary-source:nbatv:10",
-      "parentName": "NBA TV",
-      "serverIndex": 10,
-      "name": "11:00am Kings vs Spurs",
+      "name": "NBA 9",
       "category": "Sports",
       "categoryBasis": "configured broad channel type; see category review",
       "enabled": true
